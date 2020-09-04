@@ -1,627 +1,179 @@
-TITLE,DEPARTMENT,PERCENTAGE,FOAPAL_SALARY,TOTAL_SALARY,OTHER_SALARY,TENURE,DEGREE,DEGREE_DESC,YEARS_HERE,YEARS_TOTAL,POSITION_FTE,JOB FTE,BUDGET_FTE,JOB_PCT,MONTHS_EMPL,POSN_ECLS
-Assistant Professor,Accounting,100.0,139000.0,139000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Assistant Professor,Accounting,100.0,139000.0,139000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Assistant Professor,Accounting,100.0,138000.0,138000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Associate Professor,Accounting,100.0,131171.0,134291.0,3120.0,T,PHD,Doctor of Philosophy,18,22,1.0,1,1,100,9,F9
-Associate Professor,Accounting,100.0,131484.0,137724.0,6240.0,T,PHD,Doctor of Philosophy,21,22,1.0,1,1,100,9,F9
-Associate Professor,Accounting,100.0,130108.0,139468.0,9360.0,O,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Master Instructor,Accounting,100.0,67396.0,67396.0,0.0,N,DBA,Doctor of Business Admin_,12,12,1.0,1,1,100,9,F9
-Master Instructor,Accounting,100.0,70161.0,76401.0,6240.0,N,MBA,Master of Business Admin.,20,21,1.0,1,1,100,9,F9
-Professor,Accounting,100.0,143844.0,150084.0,6240.0,T,PHD,Doctor of Philosophy,28,28,1.0,1,1,100,9,F9
-Professor And Head,Accounting,100.0,147426.0,173666.0,26240.0,T,PHD,Doctor of Philosophy,39,37,1.0,1,1,100,9,F9
-Senior Instructor,Accounting,100.0,64627.0,64627.0,0.0,N,MBA,Master of Business Admin.,5,5,1.0,1,1,100,9,F9
-Senior Instructor,Accounting,100.0,64789.0,64789.0,0.0,N,MS,Master of Science,6,9,1.0,1,1,100,9,F9
-Assistant Professor,Allied Health,100.0,70113.0,73233.0,3120.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Instructor,Allied Health,100.0,62000.0,62000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Instructor,Allied Health,100.0,66000.0,66000.0,0.0,N,MS,Master of Science,2,2,1.0,1,1,100,9,F9
-Instructor,Allied Health,100.0,62591.0,62591.0,0.0,N,MBA,Master of Business Admin.,4,4,1.0,1,1,100,9,F9
-Master Instructor,Allied Health,100.0,68344.0,68344.0,0.0,N,MS,Master of Science,11,12,1.0,1,1,100,9,F9
-Professor,Allied Health,100.0,130162.0,130162.0,0.0,T,PHD,Doctor of Philosophy,22,22,1.0,1,1,100,9,F9
-Professor,Allied Health,100.0,116757.0,129877.0,13120.0,T,EDD,Doctor of Education,42,43,1.0,1,1,100,9,F9
-Senior Instructor,Allied Health,100.0,67791.0,67791.0,0.0,N,MS,Master of Science,6,7,1.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,62900.0,62900.0,0.0,N,DNP,Doctor of Nursing Practice,6,7,1.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,81096.0,84216.0,3120.0,O,DNP,Doctor of Nursing Practice,7,7,1.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,73406.0,76526.0,3120.0,O,DNP,Doctor of Nursing Practice,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,71724.0,71724.0,0.0,N,DNP,Doctor of Nursing Practice,9,10,1.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,65756.0,68876.0,3120.0,N,DNP,Doctor of Nursing Practice,9,10,2.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,73000.0,73000.0,0.0,O,DNP,Doctor of Nursing Practice,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,90000.0,90000.0,0.0,,,,0,0,1.0,1,1,0,12,F2
-Assistant Professor,Baccalaureate Nursing,100.0,73081.0,73081.0,0.0,O,DNP,Doctor of Nursing Practice,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,66632.0,66632.0,0.0,N,DNP,Doctor of Nursing Practice,6,18,1.0,1,1,100,9,F9
-Assistant Professor,Baccalaureate Nursing,100.0,79883.0,79883.0,0.0,N,DNP,Doctor of Nursing Practice,7,10,1.0,1,1,100,12,FA
-Associate Professor,Baccalaureate Nursing,100.0,99021.0,127141.0,28120.0,T,DNP,Doctor of Nursing Practice,16,17,1.0,1,1,100,9,F9
-Associate Professor,Baccalaureate Nursing,100.0,82282.0,85402.0,3120.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Associate Professor,Baccalaureate Nursing,100.0,90909.0,90909.0,0.0,T,PHD,Doctor of Philosophy,16,17,1.0,1,1,100,9,F9
-Associate Professor,Baccalaureate Nursing,100.0,76943.0,80063.0,3120.0,O,DNP,Doctor of Nursing Practice,14,28,1.0,1,1,100,9,F9
-Associate Professor,Baccalaureate Nursing,100.0,86877.0,89997.0,3120.0,O,DNP,Doctor of Nursing Practice,13,14,1.0,1,1,100,9,F9
-Associate Professor,Baccalaureate Nursing,100.0,73745.0,76865.0,3120.0,O,DNP,Doctor of Nursing Practice,5,21,1.0,1,1,100,9,F9
-Associate Professor,Baccalaureate Nursing,100.0,94687.0,97807.0,3120.0,T,DSN,Doctor of Science in Nursing_,9,18,1.0,1,1,100,9,F9
-Associate Professor,Baccalaureate Nursing,100.0,84394.0,84394.0,0.0,T,DSN,Doctor of Science in Nursing_,19,23,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,56971.0,56971.0,0.0,N,MSN,MS in Nursing,3,8,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,58321.0,58321.0,0.0,,MSN,MS in Nursing,3,3,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,68000.0,68000.0,0.0,N,MS,Master of Science,1,2,1.0,1,1,100,12,FA
-Instructor,Baccalaureate Nursing,100.0,59000.0,59000.0,0.0,,M,"Master's, Unspecified_",0,1,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,54833.0,54833.0,0.0,N,MSN,MS in Nursing,1,1,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,61390.0,61390.0,0.0,N,MS,Master of Science,2,2,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,54492.0,54492.0,0.0,N,MS,Master of Science,4,5,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,56611.0,56611.0,0.0,N,MSN,MS in Nursing,4,4,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,60556.0,60556.0,0.0,N,MSN,MS in Nursing,8,9,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,53718.0,53718.0,0.0,N,MSN,MS in Nursing,5,5,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,61390.0,61390.0,0.0,N,MS,Master of Science,2,2,1.0,1,1,100,12,FA
-Instructor,Baccalaureate Nursing,100.0,62000.0,62000.0,0.0,N,MSN,MS in Nursing,1,2,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,59000.0,59000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Instructor,Baccalaureate Nursing,100.0,62000.0,62000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Instructor,Baccalaureate Nursing,100.0,58944.0,58944.0,0.0,N,MSN,MS in Nursing,2,2,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,56274.0,56274.0,0.0,N,BS,Bachelor of Science,2,3,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,70000.0,70000.0,0.0,O,DNP,Doctor of Nursing Practice,1,2,1.0,1,1,100,12,FA
-Instructor,Baccalaureate Nursing,100.0,61390.0,61390.0,0.0,N,MSN,MS in Nursing,4,5,1.0,1,1,100,12,FA
-Instructor,Baccalaureate Nursing,100.0,60000.0,60000.0,0.0,,MSN,MS in Nursing,0,0,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,41600.0,41600.0,0.0,N,MSN,MS in Nursing,3,12,1.0,1,1,82,9,F9
-Instructor,Baccalaureate Nursing,100.0,56274.0,56274.0,0.0,N,MSN,MS in Nursing,2,3,1.0,1,1,100,9,F9
-Instructor,Baccalaureate Nursing,100.0,62000.0,62000.0,0.0,,MSN,MS in Nursing,0,0,1.0,1,1,100,9,F9
-Master Instructor,Baccalaureate Nursing,100.0,66515.0,66515.0,0.0,N,MSN,MS in Nursing,10,11,1.0,1,1,100,9,F9
-Master Instructor,Baccalaureate Nursing,100.0,58992.0,58992.0,0.0,N,MSN,MS in Nursing,14,12,1.0,1,1,100,9,F9
-Master Instructor,Baccalaureate Nursing,100.0,71281.0,71281.0,0.0,N,MSN,MS in Nursing,25,27,1.0,1,1,100,9,F9
-Professor,Baccalaureate Nursing,100.0,102280.0,105400.0,3120.0,T,EDD,Doctor of Education,52,49,1.0,1,1,100,9,F9
-Associate Professor,Baccalaureate Nursing,100.0,90781.0,108901.0,18120.0,O,DNP,Doctor of Nursing Practice,11,12,1.0,1,1,100,12,FA
-Assistant Professor,Biology,100.0,82000.0,82000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Biology,100.0,81000.0,81000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F2
-Assistant Professor,Biology,100.0,82000.0,82000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Biology,100.0,82110.0,82110.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Biology,100.0,79085.0,79085.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Biology,100.0,82176.0,85296.0,3120.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Biology,100.0,83000.0,83000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Biology,100.0,80000.0,83120.0,3120.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Biology,100.0,81168.0,81168.0,0.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Assistant Professor,Biology,100.0,60000.0,60000.0,0.0,,,,5,5,1.0,1,1,100,9,F9
-Associate Professor,Biology,100.0,76826.0,76826.0,0.0,T,PHD,Doctor of Philosophy,31,31,1.0,1,1,100,9,F9
-Associate Professor,Biology,100.0,87834.0,90954.0,3120.0,T,PHD,Doctor of Philosophy,9,10,1.0,1,1,100,9,F9
-Associate Professor,Biology,100.0,80206.0,80206.0,0.0,T,PHD,Doctor of Philosophy,23,23,1.0,1,1,100,9,F9
-Associate Professor,Biology,100.0,98627.0,101747.0,3120.0,T,PHD,Doctor of Philosophy,30,29,1.0,1,1,100,9,F9
-Associate Professor,Biology,100.0,89386.0,89386.0,0.0,O,PHD,Doctor of Philosophy,6,6,1.0,1,1,100,9,F9
-Associate Professor,Biology,100.0,80181.0,80181.0,0.0,T,PHD,Doctor of Philosophy,9,10,1.0,1,1,100,9,F9
-Instructor,Biology,100.0,46000.0,46000.0,0.0,N,MS,Master of Science,1,1,1.0,1,1,100,9,F9
-Instructor,Biology,100.0,46000.0,46000.0,0.0,,MS,Master of Science,0,12,1.0,1,1,100,9,F9
-Instructor,Biology,100.0,47000.0,47000.0,0.0,,PHD,Doctor of Philosophy,2,3,2.0,1,1,100,9,F9
-Master Instructor,Biology,100.0,48990.0,48990.0,0.0,N,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Master Instructor,Biology,100.0,48667.0,48667.0,0.0,N,MS,Master of Science,4,15,3.0,1,1,100,9,F9
-Master Instructor,Biology,100.0,49977.0,49977.0,0.0,N,MS,Master of Science,21,35,1.0,1,1,100,9,F9
-Professor,Biology,100.0,100175.0,103295.0,3120.0,T,PHD,Doctor of Philosophy,14,14,1.0,1,1,100,9,F9
-Professor,Biology,100.0,94151.0,94151.0,0.0,T,,,16,17,1.0,1,1,100,9,F9
-Professor,Biology,100.0,94509.0,97629.0,3120.0,T,PHD,Doctor of Philosophy,15,14,1.0,1,1,100,9,F9
-Professor,Biology,100.0,117994.0,121114.0,3120.0,T,PHD,Doctor of Philosophy,22,23,1.0,1,1,100,9,F9
-Professor,Biology,100.0,146725.0,149845.0,3120.0,T,PHD,Doctor of Philosophy,31,30,1.0,1,1,100,9,F9
-Professor,Biology,100.0,110263.0,113383.0,3120.0,,,,0,0,1.0,1,1,100,9,F9
-Professor,Biology,100.0,115616.0,118736.0,3120.0,,,,0,0,1.0,1,1,100,9,F9
-Professor,Biology,100.0,139972.0,153092.0,13120.0,T,PHD,Doctor of Philosophy,27,27,1.0,1,1,100,9,F9
-Professor,Biology,100.0,91349.0,97589.0,6240.0,T,PHD,Doctor of Philosophy,17,18,1.0,1,1,100,9,F9
-Professor,Biology,100.0,148636.0,148636.0,0.0,T,PHD,Doctor of Philosophy,27,27,1.0,1,1,100,9,F9
-Assistant Professor,Chemical Engineering,100.0,87869.0,90989.0,3120.0,O,PHD,Doctor of Philosophy,9,9,1.0,1,1,100,9,F9
-Assistant Professor,Chemical Engineering,100.0,89369.0,92489.0,3120.0,O,PHD,Doctor of Philosophy,9,9,1.0,1,1,100,9,F9
-Assistant Professor,Chemical Engineering,100.0,90000.0,90000.0,0.0,N,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Associate Professor,Chemical Engineering,100.0,94964.0,98084.0,3120.0,T,PHD,Doctor of Philosophy,12,12,1.0,1,1,100,9,F9
-Instructor,Chemical Engineering,100.0,78033.0,78033.0,0.0,N,BS,Bachelor of Science,3,3,1.0,1,1,100,12,FA
-Instructor,Chemical Engineering,100.0,75000.0,75000.0,0.0,,M,"Master's, Unspecified_",0,2,1.0,1,1,100,12,FA
-Instructor,Chemical Engineering,100.0,112572.0,112572.0,0.0,N,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,12,FA
-Professor,Chemical Engineering,100.0,165202.0,185822.0,20620.0,T,PHD,Doctor of Philosophy,6,6,1.0,1,1,100,9,F9
-Professor,Chemical Engineering,100.0,200000.0,218120.0,18120.0,T,PHD,Doctor of Philosophy,13,13,1.0,1,1,100,9,F9
-Professor,Chemical Engineering,100.0,180000.0,195000.0,15000.0,T,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Chemistry,100.0,72000.0,72000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Chemistry,100.0,69844.0,69844.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Chemistry,100.0,68650.0,68650.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Associate Professor,Chemistry,100.0,76285.0,76285.0,0.0,T,PHD,Doctor of Philosophy,35,34,1.0,1,1,100,9,F9
-Associate Professor,Chemistry,100.0,77184.0,80304.0,3120.0,T,PHD,Doctor of Philosophy,11,13,1.0,1,1,100,9,F9
-Associate Professor,Chemistry,100.0,71066.0,71066.0,0.0,T,PHD,Doctor of Philosophy,34,34,1.0,1,1,100,9,F9
-Instructor,Chemistry,100.0,50239.0,50239.0,0.0,N,PHD,Doctor of Philosophy,5,6,1.0,1,1,100,9,F9
-Professor,Chemistry,100.0,93476.0,93476.0,0.0,T,PHD,Doctor of Philosophy,38,37,1.0,1,1,100,9,F9
-Professor,Chemistry,100.0,85781.0,95781.0,10000.0,T,PHD,Doctor of Philosophy,6,29,1.0,1,1,100,9,F9
-Professor,Chemistry,100.0,95567.0,98687.0,3120.0,T,PHD,Doctor of Philosophy,16,17,1.0,1,1,100,9,F9
-Professor,Chemistry,100.0,88130.0,91250.0,3120.0,T,PHD,Doctor of Philosophy,20,21,1.0,1,1,100,9,F9
-Professor,Chemistry,100.0,84180.0,87300.0,3120.0,T,PHD,Doctor of Philosophy,12,12,1.0,1,1,100,9,F9
-Assistant Professor,Civil Engineering,100.0,92000.0,92000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Civil Engineering,100.0,85578.0,85578.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Instructor,Civil Engineering,100.0,82000.0,82000.0,0.0,N,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Professor,Civil Engineering,100.0,101399.0,113879.0,12480.0,T,PHD,Doctor of Philosophy,11,12,1.0,1,1,100,9,F9
-Professor,Civil Engineering,100.0,136083.0,146083.0,10000.0,T,PHD,Doctor of Philosophy,15,16,1.0,1,1,100,9,F9
-Professor,Civil Engineering,100.0,122567.0,122567.0,0.0,T,PHD,Doctor of Philosophy,41,41,1.0,1,1,100,9,F9
-Professor,Civil Engineering,100.0,98094.0,104334.0,6240.0,T,PHD,Doctor of Philosophy,18,18,1.0,1,1,100,9,F9
-Professor,Civil Engineering,100.0,129409.0,142529.0,13120.0,T,PHD,Doctor of Philosophy,12,12,1.0,1,1,100,9,F9
-Professor,Civil Engineering,100.0,118391.0,124631.0,6240.0,T,PHD,Doctor of Philosophy,24,25,1.0,1,1,100,9,F9
-Instructor,Civil Engineering,57.69,46560.0,80707.0,34147.0,N,MS,Master of Science,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Cntr Fr Adv Computer Study,100.0,92714.0,95834.0,3120.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Cntr Fr Adv Computer Study,100.0,98604.0,98604.0,0.0,O,PHD,Doctor of Philosophy,2,2,2.0,1,1,100,9,F9
-Assistant Professor,Cntr Fr Adv Computer Study,100.0,96000.0,96000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Associate Professor,Cntr Fr Adv Computer Study,100.0,110328.0,113448.0,3120.0,T,PHD,Doctor of Philosophy,16,16,1.0,1,1,100,9,F9
-Associate Professor,Cntr Fr Adv Computer Study,100.0,105370.0,108490.0,3120.0,T,PHD,Doctor of Philosophy,10,10,1.0,1,1,100,9,F9
-Associate Professor,Cntr Fr Adv Computer Study,100.0,118423.0,121543.0,3120.0,T,PHD,Doctor of Philosophy,27,27,1.0,1,1,100,9,F9
-Professor,Cntr Fr Adv Computer Study,93.46,146404.0,159769.0,13365.0,T,PHD,Doctor of Philosophy,30,29,1.0,1,1,100,9,F9
-Professor,Cntr Fr Adv Computer Study,100.0,138079.0,141199.0,3120.0,T,PHD,Doctor of Philosophy,29,30,1.0,1,1,100,9,F9
-Professor,Cntr Fr Adv Computer Study,100.0,190872.0,193992.0,3120.0,T,PHD,Doctor of Philosophy,32,32,1.0,1,1,100,9,F9
-Professor,Cntr Fr Adv Computer Study,100.0,193190.0,205190.0,12000.0,T,PHD,Doctor of Philosophy,32,31,1.0,1,1,100,9,F9
-Assistant Professor,Communication,100.0,57000.0,57000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Communication,100.0,56189.0,56189.0,0.0,O,MS,Master of Science,7,16,1.0,1,1,100,9,F9
-Assistant Professor,Communication,100.0,54745.0,54745.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Communication,100.0,55000.0,55000.0,0.0,,MFA,Master of Fine Arts,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Communication,100.0,53000.0,53000.0,0.0,,PHD,Doctor of Philosophy,1,2,1.0,1,1,100,9,F9
-Assistant Professor,Communication,100.0,55000.0,55000.0,0.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Communication,100.0,55505.0,55505.0,0.0,O,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Associate Professor,Communication,100.0,61457.0,64577.0,3120.0,T,PHD,Doctor of Philosophy,11,20,1.0,1,1,100,9,F9
-Associate Professor,Communication,100.0,70477.0,70477.0,0.0,T,PHD,Doctor of Philosophy,20,21,1.0,1,1,100,9,F9
-Instructor,Communication,100.0,48000.0,48000.0,0.0,N,MA,Master of Arts,0,1,1.0,1,1,100,9,F9
-Instructor,Communication,100.0,48124.0,48124.0,0.0,N,MA,Master of Arts,4,4,1.0,1,1,100,9,F9
-Instructor,Communication,100.0,45000.0,45000.0,0.0,,MS,Master of Science,0,5,1.0,1,1,100,9,F9
-Professor,Communication,100.0,81490.0,84610.0,3120.0,T,PHD,Doctor of Philosophy,16,18,1.0,1,1,100,9,F9
-Professor,Communication,100.0,97042.0,100162.0,3120.0,T,PHD,Doctor of Philosophy,25,25,1.0,1,1,100,9,F9
-Professor,Communication,100.0,70197.0,83317.0,13120.0,T,PHD,Doctor of Philosophy,14,15,1.0,1,1,100,9,F9
-Professor,Communication,100.0,66545.0,69665.0,3120.0,T,PHD,Doctor of Philosophy,10,10,1.0,1,1,100,9,F9
-Senior Instructor,Communication,100.0,47396.0,47396.0,0.0,N,MS,Master of Science,7,8,1.0,1,1,100,9,F9
-Senior Instructor,Communication,100.0,50834.0,50834.0,0.0,N,MFA,Master of Fine Arts,6,6,1.0,1,1,100,9,F9
-Assistant Professor,Communicative Disorders,100.0,75000.0,75000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Associate Professor,Communicative Disorders,100.0,69664.0,72784.0,3120.0,O,PHD,Doctor of Philosophy,17,21,1.0,1,1,100,9,F9
-Associate Professor,Communicative Disorders,100.0,75948.0,89068.0,13120.0,T,PHD,Doctor of Philosophy,9,11,1.0,1,1,100,9,F9
-Associate Professor,Communicative Disorders,100.0,77467.0,77467.0,0.0,T,PHD,Doctor of Philosophy,15,23,1.0,1,1,100,9,F9
-Professor,Communicative Disorders,100.0,126840.0,129960.0,3120.0,T,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Professor,Communicative Disorders,100.0,128254.0,184465.0,56211.0,T,PHD,Doctor of Philosophy,27,27,1.0,1,1,100,9,F9
-Professor,Communicative Disorders,100.0,143300.0,143300.0,0.0,T,PHD,Doctor of Philosophy,21,21,1.0,1,1,100,9,F9
-Professor,Communicative Disorders,100.0,93500.0,99740.0,6240.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Professor,Communicative Disorders,100.0,108708.0,111828.0,3120.0,T,PHD,Doctor of Philosophy,20,20,1.0,1,1,100,9,F9
-Associate Professor,Computer Science,94.74,96794.0,130168.0,33374.0,T,PHD,Doctor of Philosophy,16,15,1.0,1,1,100,9,F9
-Assistant Professor,Computer Science,100.0,90146.0,90146.0,0.0,O,MS,Master of Science,4,4,1.0,1,1,100,9,F9
-Assistant Professor,Computer Science,100.0,88800.0,88800.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Computer Science,100.0,89381.0,89381.0,0.0,O,PHD,Doctor of Philosophy,2,2,2.0,1,1,100,9,F9
-Master Instructor,Computer Science,100.0,75314.0,75314.0,0.0,N,MS,Master of Science,17,17,1.0,1,1,100,9,F9
-Master Instructor,Computer Science,100.0,74739.0,74739.0,0.0,N,MS,Master of Science,19,20,1.0,1,1,100,9,F9
-Associate Professor,Counselor Education,100.0,66311.0,66311.0,0.0,O,PHD,Doctor of Philosophy,8,9,2.0,1,1,100,9,F9
-Associate Professor,Counselor Education,100.0,64984.0,68104.0,3120.0,O,PHD,Doctor of Philosophy,5,6,1.0,1,1,100,9,F9
-Associate Professor,Counselor Education,100.0,67159.0,67159.0,0.0,T,PHD,Doctor of Philosophy,10,11,2.0,1,1,100,9,F9
-Associate Professor,Counselor Education,100.0,81332.0,81332.0,0.0,T,PHD,Doctor of Philosophy,6,23,1.0,1,1,100,9,F9
-Professor,Counselor Education,100.0,89715.0,99715.0,10000.0,T,PHD,Doctor of Philosophy,21,23,2.0,1,1,100,9,F9
-Assistant Professor,Criminal Justice,100.0,53000.0,53000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Criminal Justice,100.0,57165.0,57165.0,0.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Associate Professor,Criminal Justice,100.0,61202.0,74322.0,13120.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Master Instructor,Criminal Justice,100.0,49259.0,49259.0,0.0,N,MBA,Master of Business Admin.,15,23,1.0,1,1,100,9,F9
-Master Instructor,Criminal Justice,100.0,49527.0,49527.0,0.0,N,MA,Master of Arts,22,26,2.0,1,1,100,9,F9
-Instructor,Dean of Nursing&Allied Hlth Prof,100.0,56274.0,56274.0,0.0,N,MSN,MS in Nursing,2,2,1.0,1,1,100,9,F9
-Instructor,Dean of Nursing&Allied Hlth Prof,100.0,65738.0,65738.0,0.0,N,MSN,MS in Nursing,1,1,1.0,1,1,100,9,F9
-Instructor,Dean of Nursing&Allied Hlth Prof,100.0,58000.0,58000.0,0.0,N,MSN,MS in Nursing,1,15,1.0,1,1,100,9,F9
-Instructor,Dean of Nursing&Allied Hlth Prof,100.0,56525.0,56525.0,0.0,N,MN,Master of Nursing_,3,3,1.0,1,1,100,9,F9
-Senior Instructor,Dean of Nursing&Allied Hlth Prof,100.0,55393.0,55393.0,0.0,N,MSN,MS in Nursing,9,9,1.0,1,1,100,9,F9
-Assistant Professor,Economics & Finance,100.0,60000.0,60000.0,0.0,N,JD,Juris Doctorate,7,10,1.0,1,1,100,9,F9
-Assistant Professor,Economics & Finance,100.0,95330.0,104690.0,9360.0,O,JD,Juris Doctorate,3,4,1.0,1,1,100,9,F9
-Associate Professor,Economics & Finance,100.0,94605.0,100845.0,6240.0,T,PHD,Doctor of Philosophy,11,11,1.0,1,1,100,9,F9
-Associate Professor,Economics & Finance,100.0,119712.0,122832.0,3120.0,T,DBA,Doctor of Business Admin_,32,31,1.0,1,1,100,9,F9
-Associate Professor,Economics & Finance,100.0,114388.0,132508.0,18120.0,T,PHD,Doctor of Philosophy,10,11,1.0,1,1,100,9,F9
-Associate Professor,Economics & Finance,100.0,95000.0,95000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Associate Professor,Economics & Finance,100.0,93788.0,93788.0,0.0,T,PHD,Doctor of Philosophy,15,15,1.0,1,1,100,9,F9
-Associate Professor,Economics & Finance,100.0,109581.0,115821.0,6240.0,T,PHD,Doctor of Philosophy,11,12,1.0,1,1,100,9,F9
-Instructor,Economics & Finance,100.0,57000.0,57000.0,0.0,,MBA,Master of Business Admin.,2,11,1.0,1,1,100,9,F9
-Instructor,Economics & Finance,100.0,57000.0,57000.0,0.0,,MBA,Master of Business Admin.,1,1,1.0,1,1,100,9,F9
-Instructor,Economics & Finance,100.0,67348.0,67348.0,0.0,N,MBA,Master of Business Admin.,5,21,1.0,1,1,100,9,F9
-Instructor,Economics & Finance,100.0,51068.0,51068.0,0.0,N,MBA,Master of Business Admin.,9,13,1.0,1,1,100,9,F9
-Instructor,Economics & Finance,100.0,58911.0,58911.0,0.0,N,MS,Master of Science,10,10,1.0,1,1,100,9,F9
-Professor,Economics & Finance,100.0,100210.0,106450.0,6240.0,T,PHD,Doctor of Philosophy,12,13,1.0,1,1,100,9,F9
-Professor,Economics & Finance,100.0,210000.0,210000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Professor,Economics & Finance,100.0,82005.0,133836.0,51831.0,T,PHD,Doctor of Philosophy,23,23,2.0,1,1,100,9,F9
-Professor,Economics & Finance,100.0,115621.0,121861.0,6240.0,T,PHD,Doctor of Philosophy,34,33,1.0,1,1,100,9,F9
-Professor,Economics & Finance,100.0,113270.0,123270.0,10000.0,T,PHD,Doctor of Philosophy,30,31,1.0,1,1,100,9,F9
-Professor,Economics & Finance,100.0,114817.0,117937.0,3120.0,T,DBA,Doctor of Business Admin_,31,30,1.0,1,1,100,9,F9
-Professor,Economics & Finance,100.0,207000.0,207000.0,0.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Elect & Computer Engineering,100.0,89729.0,89729.0,0.0,O,MS,Master of Science,16,20,1.0,1,1,100,9,F9
-Assistant Professor,Elect & Computer Engineering,100.0,88000.0,88000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,0,9,F9
-Assistant Professor,Elect & Computer Engineering,100.0,88000.0,88000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,FA
-Assistant Professor,Elect & Computer Engineering,100.0,92548.0,92548.0,0.0,N,PHD,Doctor of Philosophy,10,13,1.0,1,1,100,12,F2
-Associate Professor,Elect & Computer Engineering,100.0,98140.0,98140.0,0.0,T,PHD,Doctor of Philosophy,29,29,1.0,1,1,100,9,F9
-Instructor,Elect & Computer Engineering,100.0,75000.0,75000.0,0.0,,MS,Master of Science,0,0,1.0,1,1,100,12,F2
-Instructor,Elect & Computer Engineering,100.0,90000.0,90000.0,0.0,,,,0,0,1.0,1,1,0,12,F2
-Professor,Elect & Computer Engineering,100.0,212000.0,222000.0,10000.0,T,PHD,Doctor of Philosophy,33,33,1.0,1,1,100,9,F9
-Professor,Elect & Computer Engineering,100.0,102551.0,108791.0,6240.0,T,PHD,Doctor of Philosophy,14,15,1.0,1,1,100,9,F9
-Professor,Elect & Computer Engineering,100.0,100441.0,103561.0,3120.0,T,PHD,Doctor of Philosophy,30,30,1.0,1,1,100,9,F9
-Professor,Elect & Computer Engineering,100.0,102331.0,108571.0,6240.0,T,PHD,Doctor of Philosophy,15,15,1.0,1,1,100,9,F9
-Assisant Professor,English,100.0,50000.0,50000.0,0.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,English,100.0,52233.0,52233.0,0.0,O,PHD,Doctor of Philosophy,4,5,1.0,1,1,100,9,F9
-Assistant Professor,English,100.0,52782.0,52782.0,0.0,T,PHD,Doctor of Philosophy,16,17,1.0,1,1,100,9,F9
-Assistant Professor,English,100.0,50983.0,50983.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,English,100.0,48000.0,48000.0,0.0,O,MFA,Master of Fine Arts,0,0,1.0,1,1,100,9,F9
-Assistant Professor,English,100.0,51000.0,51000.0,0.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,English,100.0,50099.0,50099.0,0.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Assistant Professor,English,100.0,49000.0,49000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,English,100.0,49000.0,49000.0,0.0,,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,59178.0,59178.0,0.0,T,PHD,Doctor of Philosophy,12,12,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,54049.0,54049.0,0.0,T,PHD,Doctor of Philosophy,50,44,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,58464.0,58464.0,0.0,T,PHD,Doctor of Philosophy,11,11,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,56533.0,59653.0,3120.0,O,PHD,Doctor of Philosophy,20,19,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,57131.0,57131.0,0.0,O,PHD,Doctor of Philosophy,6,7,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,58564.0,58564.0,0.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,52698.0,55818.0,3120.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,60627.0,60627.0,0.0,T,PHD,Doctor of Philosophy,11,12,1.0,1,1,100,9,F9
-Associate Professor,English,100.0,67775.0,67775.0,0.0,T,PHD,Doctor of Philosophy,16,18,1.0,1,1,100,9,F9
-Instructor,English,100.0,47972.0,47972.0,0.0,O,MFA,Master of Fine Arts,3,3,1.0,1,1,100,9,F9
-Instructor,English,100.0,38942.0,38942.0,0.0,N,MA,Master of Arts,11,14,1.0,1,1,100,9,F9
-Instructor,English,100.0,36106.0,36106.0,0.0,N,MA,Master of Arts,10,15,1.0,1,1,100,9,F9
-Instructor,English,100.0,36046.0,36046.0,0.0,N,MFA,Master of Fine Arts,10,10,1.0,1,1,100,9,F9
-Instructor,English,100.0,36136.0,36136.0,0.0,N,BA,Bachelor of Arts,2,2,1.0,1,1,100,9,F9
-Instructor,English,100.0,39997.0,39997.0,0.0,N,MA,Master of Arts,17,26,1.0,1,1,100,9,F9
-Instructor,English,100.0,48247.0,48247.0,0.0,O,PHD,Doctor of Philosophy,16,15,1.0,1,1,100,9,F9
-Master Instructor,English,100.0,44283.0,44283.0,0.0,N,MA,Master of Arts,12,14,1.0,1,1,100,9,F9
-Master Instructor,English,100.0,47199.0,47199.0,0.0,N,MA,Master of Arts,18,19,1.0,1,1,100,9,F9
-Master Instructor,English,100.0,54547.0,54547.0,0.0,N,MA,Master of Arts,41,40,1.0,1,1,100,9,F9
-Master Instructor,English,100.0,47018.0,47018.0,0.0,N,MA,Master of Arts,14,14,1.0,1,1,100,9,F9
-Master Instructor,English,100.0,50839.0,50839.0,0.0,N,MFA,Master of Fine Arts,22,23,1.0,1,1,100,9,F9
-Professor,English,100.0,77558.0,77558.0,0.0,T,PHD,Doctor of Philosophy,18,19,1.0,1,1,100,9,F9
-Professor,English,100.0,85783.0,88903.0,3120.0,T,PHD,Doctor of Philosophy,14,14,1.0,1,1,100,9,F9
-Professor,English,100.0,67660.0,67660.0,0.0,T,PHD,Doctor of Philosophy,16,17,1.0,1,1,100,9,F9
-Professor,English,100.0,79258.0,79258.0,0.0,T,PHD,Doctor of Philosophy,16,16,1.0,1,1,100,9,F9
-Professor,English,100.0,73205.0,73205.0,0.0,T,PHD,Doctor of Philosophy,19,19,1.0,1,1,100,9,F9
-Professor,English,100.0,102080.0,102080.0,0.0,T,PHD,Doctor of Philosophy,31,30,1.0,1,1,100,9,F9
-Professor,English,100.0,82573.0,85693.0,3120.0,T,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Professor,English,100.0,85541.0,88661.0,3120.0,T,MFA,Master of Fine Arts,13,16,1.0,1,1,100,9,F9
-Professor,English,100.0,81842.0,94962.0,13120.0,T,PHD,Doctor of Philosophy,19,20,1.0,1,1,100,9,F9
-Professor,English,100.0,83303.0,86423.0,3120.0,T,PHD,Doctor of Philosophy,17,17,1.0,1,1,100,9,F9
-Professor,English,100.0,70169.0,70169.0,0.0,T,PHD,Doctor of Philosophy,18,19,1.0,1,1,100,9,F9
-Senior Instructor,English,100.0,37763.0,37763.0,0.0,N,PHD,Doctor of Philosophy,5,13,1.0,1,1,100,9,F9
-Senior Instructor,English,100.0,39953.0,39953.0,0.0,N,MFA,Master of Fine Arts,10,12,1.0,1,1,100,9,F9
-Senior Instructor,English,100.0,51053.0,51053.0,0.0,N,BA,Bachelor of Arts,21,21,1.0,1,1,100,12,F9
-Senior Instructor,English,100.0,37912.0,37912.0,0.0,N,MA,Master of Arts,5,10,1.0,1,1,100,9,F9
-Assistant Professor,History & Geography,100.0,51000.0,54120.0,3120.0,O,PHD,Doctor of Philosophy,1,2,1.0,1,1,100,9,F9
-Assistant Professor,History & Geography,100.0,50000.0,50000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,History & Geography,100.0,57524.0,57524.0,0.0,T,PHD,Doctor of Philosophy,20,20,1.0,1,1,100,9,F9
-Assistant Professor,History & Geography,100.0,52500.0,55620.0,3120.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,History & Geography,100.0,52500.0,55620.0,3120.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,History & Geography,100.0,59720.0,59720.0,0.0,T,PHD,Doctor of Philosophy,23,23,1.0,1,1,100,9,F9
-Assistant Professor,History & Geography,100.0,52269.0,55389.0,3120.0,O,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Associate Professor,History & Geography,100.0,69058.0,69058.0,0.0,T,PHD,Doctor of Philosophy,22,22,1.0,1,1,100,9,F9
-Associate Professor,History & Geography,100.0,64124.0,67244.0,3120.0,T,PHD,Doctor of Philosophy,14,14,1.0,1,1,100,9,F9
-Associate Professor,History & Geography,100.0,61853.0,61853.0,0.0,T,PHD,Doctor of Philosophy,11,12,1.0,1,1,100,9,F9
-Associate Professor,History & Geography,100.0,64537.0,77657.0,13120.0,T,PHD,Doctor of Philosophy,10,11,1.0,1,1,100,9,F9
-Instructor,History & Geography,100.0,39063.0,39063.0,0.0,,PHD,Doctor of Philosophy,5,6,1.0,1,1,100,9,F9
-Professor,History & Geography,100.0,88791.0,88791.0,0.0,T,PHD,Doctor of Philosophy,21,22,1.0,1,1,100,9,F9
-Professor,History & Geography,100.0,90000.0,93120.0,3120.0,T,PHD,Doctor of Philosophy,15,16,1.0,1,1,100,9,F9
-Professor,History & Geography,100.0,97067.0,97067.0,0.0,T,PHD,Doctor of Philosophy,27,27,1.0,1,1,100,9,F9
-Senior Instructor,History & Geography,100.0,43712.0,43712.0,0.0,N,PHD,Doctor of Philosophy,6,6,1.0,1,1,100,9,F9
-Senior Instructor,History & Geography,100.0,46307.0,46307.0,0.0,N,MA,Master of Arts,10,11,1.0,1,1,100,9,F9
-Assistant Professor,Industrial Technology,100.0,81008.0,81008.0,0.0,O,PHD,Doctor of Philosophy,5,6,2.0,1,1,100,9,F9
-Assistant Professor,Industrial Technology,100.0,79475.0,79475.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Associate Professor,Industrial Technology,100.0,82241.0,82241.0,0.0,T,MBA,Master of Business Admin.,28,28,1.0,1,1,100,9,F9
-Instructor,Industrial Technology,100.0,75000.0,75000.0,0.0,,,,0,1,1.0,1,1,0,12,F2
-Instructor,Industrial Technology,100.0,85000.0,85000.0,0.0,,,,0,0,1.0,1,1,100,9,F9
-Instructor,Industrial Technology,100.0,75000.0,75000.0,0.0,N,MS,Master of Science,0,2,1.0,1,1,100,12,F2
-Instructor,Industrial Technology,100.0,59854.0,59854.0,0.0,N,MBA,Master of Business Admin.,10,10,1.0,1,1,100,9,F9
-Instructor,Industrial Technology,100.0,86129.0,86129.0,0.0,N,MS,Master of Science,29,30,1.0,1,1,100,12,F2
-Professor,Industrial Technology,100.0,97161.0,97161.0,0.0,T,DSC,Doctor of Science_,23,23,1.0,1,1,100,9,F9
-Professor,Industrial Technology,100.0,110155.0,123275.0,13120.0,T,PHD,Doctor of Philosophy,11,12,1.0,1,1,100,9,F9
-Professor,Industrial Technology,100.0,96453.0,102693.0,6240.0,T,PHD,Doctor of Philosophy,23,22,1.0,1,1,100,9,F9
-Assistant Professor,Informatics,100.0,83177.0,83177.0,0.0,O,PHD,Doctor of Philosophy,6,7,1.0,1,1,100,9,F9
-Associate Professor,Informatics,100.0,106968.0,106968.0,0.0,T,PHD,Doctor of Philosophy,12,13,1.0,1,1,100,9,F9
-Associate Professor,Informatics,100.0,112927.0,112927.0,0.0,T,PHD,Doctor of Philosophy,22,27,1.0,1,1,100,9,F9
-Senior Instructor,Informatics,100.0,70000.0,70000.0,0.0,N,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Senior Instructor,Informatics,100.0,58686.0,58686.0,0.0,N,MS,Master of Science,9,13,1.0,1,1,100,9,F9
-Assistant Professor,Kinesiology,100.0,65000.0,65000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Kinesiology,100.0,59943.0,59943.0,0.0,O,PHD,Doctor of Philosophy,2,5,1.0,1,1,100,9,F9
-Assistant Professor,Kinesiology,100.0,63874.0,66994.0,3120.0,N,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,12,FA
-Assistant Professor,Kinesiology,100.0,53730.0,53730.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Kinesiology,100.0,64375.0,67495.0,3120.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Kinesiology,100.0,65000.0,65000.0,0.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Associate Professor,Kinesiology,100.0,65353.0,65353.0,0.0,T,PHD,Doctor of Philosophy,12,13,1.0,1,1,100,9,F9
-Associate Professor,Kinesiology,100.0,65935.0,69055.0,3120.0,O,PHD,Doctor of Philosophy,5,6,1.0,1,1,100,9,F9
-Associate Professor,Kinesiology,100.0,71436.0,71436.0,0.0,T,PHD,Doctor of Philosophy,18,19,1.0,1,1,100,9,F9
-Instructor,Kinesiology,100.0,50122.0,50122.0,0.0,N,MS,Master of Science,4,6,1.0,1,1,100,9,F9
-Instructor,Kinesiology,100.0,44000.0,44000.0,0.0,N,MS,Master of Science,3,3,1.0,1,1,100,9,F9
-Master Instructor,Kinesiology,100.0,53546.0,53546.0,0.0,N,MED,Master of Education,31,31,1.0,1,1,100,9,F9
-Professor,Kinesiology,100.0,96385.0,96385.0,0.0,T,PHD,Doctor of Philosophy,27,27,1.0,1,1,100,9,F9
-Professor,Kinesiology,100.0,83510.0,83510.0,0.0,T,PHD,Doctor of Philosophy,18,20,1.0,1,1,100,9,F9
-Professor,Kinesiology,100.0,81574.0,84694.0,3120.0,T,PHD,Doctor of Philosophy,27,30,1.0,1,1,100,9,F9
-Senior Instructor,Kinesiology,100.0,50467.0,50467.0,0.0,N,MPH,Master of Public Health,7,8,1.0,1,1,100,9,F9
-Senior Instructor,Kinesiology,100.0,54006.0,54006.0,0.0,N,MED,Master of Education,9,13,1.0,1,1,100,9,F9
-Assistant Professor,Library,100.0,55000.0,55000.0,0.0,N,MLIS,M of Library & Information Sci,3,7,1.0,1,1,100,12,FA
-Assistant Professor,Library,100.0,56962.0,56962.0,0.0,O,MLIS,M of Library & Information Sci,13,15,1.0,1,1,100,12,FA
-Assistant Professor,Library,100.0,71162.0,71162.0,0.0,O,MLS,Master of Library Science,2,2,1.0,1,1,100,12,FA
-Assistant Professor,Library,100.0,55000.0,55000.0,0.0,N,MS,Master of Science,2,2,1.0,1,1,100,12,FA
-Assistant Professor,Library,100.0,55020.0,58140.0,3120.0,O,MLS,Master of Library Science,3,3,1.0,1,1,100,12,FA
-Assistant Professor,Library,100.0,55000.0,58120.0,3120.0,,MLIS,M of Library & Information Sci,2,2,1.0,1,1,100,12,FA
-Associate Professor,Library,100.0,70000.0,70000.0,0.0,T,MLIS,M of Library & Information Sci,31,31,1.0,1,1,100,12,FA
-Associate Professor,Library,100.0,75527.0,75527.0,0.0,T,MLS,Master of Library Science,32,32,1.0,1,1,100,12,FA
-Instructor,Library,100.0,46058.0,46058.0,0.0,N,M,"Master's, Unspecified_",4,4,1.0,1,1,100,12,FA
-Instructor,Library,100.0,47000.0,47000.0,0.0,N,MLS,Master of Library Science,1,8,1.0,1,1,100,12,FA
-Instructor,Library,100.0,45000.0,45000.0,0.0,N,BA,Bachelor of Arts,3,3,1.0,1,1,100,12,F9
-Instructor,Library,100.0,45000.0,45000.0,0.0,,MLS,Master of Library Science,0,0,1.0,1,1,100,12,FA
-Instructor,Library,100.0,45000.0,45000.0,0.0,,,,0,0,1.0,1,1,100,12,FA
-Instructor,Library,100.0,45000.0,45000.0,0.0,,AB,Bachelor of Arts,2,2,1.0,1,1,100,12,FA
-Senior Instructor,Library,100.0,48073.0,48073.0,0.0,N,MLIS,M of Library & Information Sci,10,10,1.0,1,1,100,12,FA
-Assistant Professor,Management,100.0,75000.0,84360.0,9360.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Associate Professor,Management,100.0,122704.0,132064.0,9360.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Associate Professor,Management,100.0,122200.0,125320.0,3120.0,T,PHD,Doctor of Philosophy,18,23,1.0,1,1,100,9,F9
-Associate Professor,Management,100.0,125481.0,131721.0,6240.0,T,PHD,Doctor of Philosophy,4,8,2.0,1,1,100,9,F9
-Associate Professor,Management,100.0,118474.0,118474.0,0.0,T,PHD,Doctor of Philosophy,18,18,1.0,1,1,100,9,F9
-Associate Professor,Management,100.0,118920.0,128280.0,9360.0,T,DBA,Doctor of Business Admin_,17,20,1.0,1,1,100,9,F9
-Associate Professor,Management,100.0,125976.0,129096.0,3120.0,T,PHD,Doctor of Philosophy,14,15,1.0,1,1,100,9,F9
-Associate Professor,Management,100.0,131213.0,146213.0,15000.0,T,PHD,Doctor of Philosophy,6,7,1.0,1,1,100,9,F9
-Associate Professor,Management,100.0,123251.0,129491.0,6240.0,T,PHD,Doctor of Philosophy,9,10,1.0,1,1,100,9,F9
-Associate Professor,Management,100.0,128240.0,137600.0,9360.0,O,PHD,Doctor of Philosophy,6,7,1.0,1,1,100,9,F9
-Instructor,Management,100.0,51701.0,54821.0,3120.0,N,PHD,Doctor of Philosophy,2,7,1.0,1,1,100,9,F9
-Instructor,Management,100.0,50889.0,50889.0,0.0,N,M,"Master's, Unspecified_",2,2,1.0,1,1,100,9,F9
-Instructor,Management,100.0,50000.0,50000.0,0.0,N,MBA,Master of Business Admin.,1,1,1.0,1,1,100,9,F9
-Instructor,Management,100.0,48073.0,48073.0,0.0,N,PHD,Doctor of Philosophy,10,10,1.0,1,1,100,9,F9
-Instructor,Management,100.0,108014.0,108014.0,0.0,N,JD,Juris Doctorate,6,11,1.0,1,1,100,9,F9
-Master Instructor,Management,100.0,59542.0,65782.0,6240.0,N,MS,Master of Science,17,18,1.0,1,1,100,9,F9
-Master Instructor,Management,100.0,69171.0,69171.0,0.0,N,PHD,Doctor of Philosophy,18,40,2.0,1,1,100,9,F9
-Professor,Management,100.0,126573.0,135933.0,9360.0,T,DBA,Doctor of Business Admin_,15,21,1.0,1,1,100,9,F9
-Professor,Management,100.0,131738.0,141738.0,10000.0,T,PHD,Doctor of Philosophy,33,36,1.0,1,1,100,9,F9
-Professor,Management,100.0,153242.0,153242.0,0.0,T,PHD,Doctor of Philosophy,29,29,1.0,1,1,100,9,F9
-Professor,Management,100.0,139795.0,142915.0,3120.0,T,PHD,Doctor of Philosophy,30,30,1.0,1,1,100,9,F9
-Senior Instructor,Management,100.0,48401.0,51521.0,3120.0,N,PHD,Doctor of Philosophy,10,11,2.0,1,1,100,9,F9
-Associate Professor,Marketing & Hospitality,100.0,113299.0,119539.0,6240.0,T,DBA,Doctor of Business Admin_,13,13,1.0,1,1,100,9,F9
-Associate Professor,Marketing & Hospitality,100.0,130000.0,130000.0,0.0,T,PHD,Doctor of Philosophy,17,23,1.0,1,1,100,9,F9
-Associate Professor,Marketing & Hospitality,100.0,116195.0,122435.0,6240.0,T,PHD,Doctor of Philosophy,18,19,1.0,1,1,100,9,F9
-Associate Professor,Marketing & Hospitality,100.0,131121.0,168221.0,37100.0,T,PHD,Doctor of Philosophy,13,16,1.0,1,1,100,9,F9
-Associate Professor,Marketing & Hospitality,100.0,116419.0,125779.0,9360.0,T,PHD,Doctor of Philosophy,10,11,1.0,1,1,100,9,F9
-Instructor,Marketing & Hospitality,100.0,54128.0,54128.0,0.0,N,MBA,Master of Business Admin.,3,3,1.0,1,1,100,9,F9
-Professor,Marketing & Hospitality,100.0,162338.0,165458.0,3120.0,T,PHD,Doctor of Philosophy,11,11,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,71752.0,71752.0,0.0,T,PHD,Doctor of Philosophy,27,28,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,78614.0,78614.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,67645.0,67645.0,0.0,N,PHD,Doctor of Philosophy,15,17,2.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,77000.0,77000.0,0.0,O,PHD,Doctor of Philosophy,1,1,2.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,77000.0,77000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,78411.0,78411.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,75000.0,75000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,77000.0,77000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,73000.0,73000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,76000.0,76000.0,0.0,O,MS,Master of Science,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,82000.0,82000.0,0.0,,PHD,Doctor of Philosophy,0,2,1.0,1,1,100,9,F9
-Assistant Professor,Mathematics,100.0,78275.0,78275.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Associate Professor,Mathematics,100.0,79532.0,79532.0,0.0,T,PHD,Doctor of Philosophy,28,28,1.0,1,1,100,9,F9
-Associate Professor,Mathematics,100.0,78762.0,78762.0,0.0,T,PHD,Doctor of Philosophy,11,12,1.0,1,1,100,9,F9
-Associate Professor,Mathematics,100.0,82213.0,82213.0,0.0,T,PHD,Doctor of Philosophy,13,15,1.0,1,1,100,9,F9
-Associate Professor,Mathematics,100.0,77136.0,77136.0,0.0,O,PHD,Doctor of Philosophy,7,7,1.0,1,1,100,9,F9
-Associate Professor,Mathematics,100.0,78508.0,78508.0,0.0,T,PHD,Doctor of Philosophy,9,9,1.0,1,1,100,9,F9
-Associate Professor,Mathematics,100.0,74286.0,74286.0,0.0,T,PHD,Doctor of Philosophy,31,31,1.0,1,1,100,9,F9
-Instructor,Mathematics,100.0,50000.0,50000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Instructor,Mathematics,100.0,43000.0,43000.0,0.0,N,MS,Master of Science,5,6,1.0,1,1,100,9,F9
-Instructor,Mathematics,100.0,47000.0,47000.0,0.0,N,PHD,Doctor of Philosophy,0,9,1.0,1,1,100,9,F9
-Instructor,Mathematics,100.0,47000.0,47000.0,0.0,,,,6,0,1.0,1,1,0,9,F9
-Instructor,Mathematics,100.0,47488.0,47488.0,0.0,N,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Master Instructor,Mathematics,100.0,49647.0,49647.0,0.0,N,MBA,Master of Business Admin.,23,30,1.0,1,1,100,9,F9
-Master Instructor,Mathematics,100.0,50287.0,50287.0,0.0,N,PHD,Doctor of Philosophy,10,11,1.0,1,1,100,9,F9
-Professor,Mathematics,100.0,122989.0,122989.0,0.0,T,PHD,Doctor of Philosophy,33,32,1.0,1,1,100,9,F9
-Professor,Mathematics,100.0,125596.0,128716.0,3120.0,T,PHD,Doctor of Philosophy,28,28,1.0,1,1,100,9,F9
-Professor,Mathematics,100.0,111258.0,111258.0,0.0,T,PHD,Doctor of Philosophy,41,39,1.0,1,1,100,9,F9
-Professor,Mathematics,100.0,123295.0,126415.0,3120.0,T,PHD,Doctor of Philosophy,26,27,1.0,1,1,100,9,F9
-Professor,Mathematics,100.0,85165.0,85165.0,0.0,T,PHD,Doctor of Philosophy,12,12,1.0,1,1,100,9,F9
-Professor,Mathematics,100.0,109449.0,109449.0,0.0,T,PHD,Doctor of Philosophy,29,29,1.0,1,1,100,9,F9
-Professor,Mathematics,100.0,120185.0,123305.0,3120.0,T,PHD,Doctor of Philosophy,34,34,1.0,1,1,100,9,F9
-Professor,Mathematics,100.0,120000.0,130000.0,10000.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Senior Instructor,Mathematics,100.0,47146.0,47146.0,0.0,N,MS,Master of Science,6,14,1.0,1,1,100,9,F9
-Senior Instructor,Mathematics,100.0,47177.0,47177.0,0.0,N,MS,Master of Science,7,20,1.0,1,1,100,9,F9
-Senior Instructor,Mathematics,100.0,48116.0,48116.0,0.0,N,PHD,Doctor of Philosophy,6,7,1.0,1,1,100,9,F9
-Senior Instructor,Mathematics,100.0,47805.0,47805.0,0.0,N,MS,Master of Science,13,19,1.0,1,1,100,9,F9
-Senior Instructor,Mathematics,100.0,47443.0,47443.0,0.0,N,PHD,Doctor of Philosophy,5,10,1.0,1,1,100,9,F9
-Assistant Professor,Mechanical Engineering,100.0,89000.0,89000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Mechanical Engineering,50.0,46301.0,95722.0,49421.0,O,PHD,Doctor of Philosophy,11,11,1.0,1,1,100,9,F9
-Assistant Professor,Mechanical Engineering,100.0,89000.0,89000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Mechanical Engineering,100.0,89369.0,89369.0,0.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Assistant Professor,Mechanical Engineering,100.0,89070.0,89070.0,0.0,O,PHD,Doctor of Philosophy,8,8,1.0,1,1,100,9,F9
-Assistant Professor,Mechanical Engineering,100.0,94804.0,97924.0,3120.0,O,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Associate Professor,Mechanical Engineering,100.0,106900.0,106900.0,0.0,T,PHD,Doctor of Philosophy,33,34,1.0,1,1,100,9,F9
-Associate Professor,Mechanical Engineering,100.0,100143.0,100143.0,0.0,O,PHD,Doctor of Philosophy,6,6,1.0,1,1,100,9,F9
-Associate Professor,Mechanical Engineering,100.0,89156.0,89156.0,0.0,,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Instructor,Mechanical Engineering,100.0,75000.0,75000.0,0.0,N,MS,Master of Science,1,1,1.0,1,1,100,12,FA
-Instructor,Mechanical Engineering,100.0,84174.0,84174.0,0.0,N,MS,Master of Science,4,4,1.0,1,1,100,12,F2
-Instructor,Mechanical Engineering,100.0,91050.0,91050.0,0.0,N,PHD,Doctor of Philosophy,17,17,1.0,1,1,100,12,F2
-Instructor,Mechanical Engineering,100.0,76936.0,76936.0,0.0,N,MS,Master of Science,4,4,1.0,1,1,100,12,F2
-Instructor,Mechanical Engineering,100.0,95513.0,95513.0,0.0,N,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,12,F2
-Instructor,Mechanical Engineering,100.0,75000.0,75000.0,0.0,,MSE,MS in Engineering,2,4,1.0,1,1,100,12,F2
-Professor,Mechanical Engineering,100.0,171000.0,184120.0,13120.0,T,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Professor,Mechanical Engineering,100.0,131742.0,166742.0,35000.0,T,PHD,Doctor of Philosophy,4,21,2.0,1,1,100,9,F9
-Professor,Mechanical Engineering,100.0,120376.0,120376.0,0.0,T,PHD,Doctor of Philosophy,32,32,1.0,1,1,100,9,F9
-Professor,Mechanical Engineering,100.0,128132.0,134372.0,6240.0,T,PHD,Doctor of Philosophy,30,29,1.0,1,1,100,9,F9
-Professor,Mechanical Engineering,100.0,130794.0,130794.0,0.0,T,PHD,Doctor of Philosophy,22,22,1.0,1,1,100,9,F9
-Assistant Professor,Modern Languages,100.0,58292.0,58292.0,0.0,T,PHD,Doctor of Philosophy,20,20,1.0,1,1,100,9,F9
-Assistant Professor,Modern Languages,100.0,56000.0,59120.0,3120.0,O,MA,Master of Arts,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Modern Languages,100.0,55570.0,55570.0,0.0,T,PHD,Doctor of Philosophy,14,15,1.0,1,1,100,9,F9
-Associate Professor,Modern Languages,100.0,62551.0,62551.0,0.0,T,PHD,Doctor of Philosophy,10,10,1.0,1,1,100,9,F9
-Associate Professor,Modern Languages,100.0,63070.0,73070.0,10000.0,T,PHD,Doctor of Philosophy,13,14,1.0,1,1,100,9,F9
-Associate Professor,Modern Languages,100.0,63769.0,66889.0,3120.0,T,PHD,Doctor of Philosophy,10,10,1.0,1,1,100,9,F9
-Associate Professor,Modern Languages,100.0,58501.0,61621.0,3120.0,O,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Instructor,Modern Languages,100.0,35909.0,35909.0,0.0,N,MA,Master of Arts,7,8,1.0,1,1,100,9,F9
-Master Instructor,Modern Languages,100.0,41190.0,41190.0,0.0,N,MA,Master of Arts,7,17,1.0,1,1,100,9,F9
-Master Instructor,Modern Languages,100.0,45514.0,45514.0,0.0,N,MA,Master of Arts,18,18,1.0,1,1,100,9,F9
-Master Instructor,Modern Languages,100.0,39179.0,39179.0,0.0,N,MA,Master of Arts,12,13,1.0,1,1,100,9,F9
-Master Instructor,Modern Languages,100.0,45866.0,45866.0,0.0,N,MA,Master of Arts,21,22,1.0,1,1,100,9,F9
-Professor,Modern Languages,100.0,83689.0,113689.0,30000.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Professor,Modern Languages,100.0,65334.0,68454.0,3120.0,T,PHD,Doctor of Philosophy,11,11,1.0,1,1,100,9,F9
-Professor,Modern Languages,100.0,64923.0,68043.0,3120.0,T,PHD,Doctor of Philosophy,11,11,1.0,1,1,100,9,F9
-Assistant Professor,Music,100.0,58500.0,58500.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Assistant Professor,Music,100.0,55000.0,55000.0,0.0,,,,0,0,1.0,1,1,0,12,FA
-Assistant Professor,Music,100.0,52000.0,52000.0,0.0,O,PHD,Doctor of Philosophy,0,1,1.0,1,1,100,9,F9
-Assistant Professor,Music,100.0,55000.0,55000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Music,100.0,54092.0,54092.0,0.0,O,DMA,Doctor of Arts in Music_,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Music,100.0,48878.0,48878.0,0.0,N,DMA,Doctor of Arts in Music_,6,7,1.0,1,1,100,9,F9
-Assistant Professor,Music,100.0,50000.0,50000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-"Assistant Professor, A D Bands",Music,100.0,52000.0,52000.0,0.0,O,DMA,Doctor of Arts in Music_,1,1,2.0,1,1,100,9,F9
-Associate Professor,Music,100.0,61395.0,64515.0,3120.0,T,DMA,Doctor of Arts in Music_,18,18,1.0,1,1,100,9,F9
-Associate Professor,Music,100.0,72788.0,72788.0,0.0,T,DME,Doctor of Music Education_,25,27,1.0,1,1,100,9,F9
-Associate Professor,Music,100.0,57222.0,60342.0,3120.0,O,MA,Master of Arts,5,5,1.0,1,1,100,9,F9
-Associate Professor,Music,100.0,54744.0,57055.0,2311.0,T,DMA,Doctor of Arts in Music_,21,22,1.0,1,1,100,9,F9
-Instructor,Music,100.0,49673.0,49673.0,0.0,N,B,"Bachelor, Unspecified_",3,4,1.0,1,1,100,9,F9
-Master Instructor,Music,100.0,53540.0,53540.0,0.0,N,MM,Master of Music,22,22,1.0,1,1,100,9,F9
-Master Instructor,Music,100.0,52807.0,52807.0,0.0,N,MM,Master of Music,12,12,1.0,1,1,100,9,F9
-Master Instructor,Music,100.0,50306.0,53426.0,3120.0,N,MM,Master of Music,20,21,1.0,1,1,100,9,F9
-Professor,Music,100.0,82812.0,85932.0,3120.0,T,DART,Doctor of Arts_,24,24,1.0,1,1,100,9,F9
-Professor,Music,100.0,108869.0,108869.0,0.0,T,PHD,Doctor of Philosophy,8,9,1.0,1,1,100,12,FA
-Professor,Music,100.0,85824.0,88944.0,3120.0,T,DMA,Doctor of Arts in Music_,28,28,1.0,1,1,100,9,F9
-Professor,Music,100.0,95622.0,98742.0,3120.0,T,PHD,Doctor of Philosophy,32,32,1.0,1,1,100,9,F9
-Professor,Music,100.0,70723.0,80723.0,10000.0,T,PHD,Doctor of Philosophy,17,19,1.0,1,1,100,9,F9
-Professor,Music,100.0,65293.0,68413.0,3120.0,T,DMA,Doctor of Arts in Music_,16,16,1.0,1,1,100,9,F9
-Professor,Music,100.0,114074.0,117194.0,3120.0,T,DMA,Doctor of Arts in Music_,33,33,1.0,1,1,100,9,F9
-Professor,Music,100.0,69489.0,72609.0,3120.0,T,DMA,Doctor of Arts in Music_,20,20,1.0,1,1,100,9,F9
-Assistant Professor,Performing Arts,100.0,58000.0,58000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Assistant Professor,Performing Arts,100.0,50083.0,50083.0,0.0,O,MFA,Master of Fine Arts,4,4,1.0,1,1,100,9,F9
-Assistant Professor,Performing Arts,100.0,64081.0,64081.0,0.0,T,MFA,Master of Fine Arts,30,30,1.0,1,1,100,9,F9
-Associate Professor,Performing Arts,100.0,58329.0,61449.0,3120.0,T,MFA,Master of Fine Arts,9,11,1.0,1,1,100,9,F9
-Associate Professor,Performing Arts,100.0,60173.0,60173.0,0.0,T,MFA,Master of Fine Arts,11,11,1.0,1,1,100,9,F9
-Instructor,Performing Arts,100.0,45495.0,45495.0,0.0,N,BFA,Bachelor of Fine Arts,10,11,1.0,1,1,100,9,F9
-Instructor,Performing Arts,100.0,52000.0,52000.0,0.0,O,MFA,Master of Fine Arts,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Petroleum Engineering,100.0,90029.0,90029.0,0.0,O,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Assistant Professor,Petroleum Engineering,100.0,94804.0,94804.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Petroleum Engineering,100.0,91099.0,94219.0,3120.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Instructor,Petroleum Engineering,100.0,92000.0,92000.0,0.0,,BS,Bachelor of Science,1,1,1.0,1,1,100,12,F2
-Instructor,Petroleum Engineering,100.0,78153.0,78153.0,0.0,N,MSE,MS in Engineering,3,3,1.0,1,1,100,12,FA
-Instructor,Petroleum Engineering,100.0,78232.0,78232.0,0.0,N,MS,Master of Science,4,5,1.0,1,1,100,12,FA
-Professor,Petroleum Engineering,100.0,132442.0,145562.0,13120.0,T,PHD,Doctor of Philosophy,11,11,1.0,1,1,100,9,F9
-Professor,Petroleum Engineering,100.0,136573.0,150933.0,14360.0,T,PHD,Doctor of Philosophy,18,18,1.0,1,1,100,9,F9
-Professor,Petroleum Engineering,100.0,133818.0,133818.0,0.0,T,PHD,Doctor of Philosophy,38,35,1.0,1,1,100,9,F9
-Assistant Professor,Physics,100.0,78000.0,78000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Physics,100.0,78000.0,78000.0,0.0,O,PHD,Doctor of Philosophy,0,3,1.0,1,1,100,9,F9
-Associate Professor,Physics,100.0,77406.0,80526.0,3120.0,O,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Associate Professor,Physics,100.0,81428.0,84548.0,3120.0,T,PHD,Doctor of Philosophy,12,12,1.0,1,1,100,9,F9
-Instructor,Physics,100.0,50000.0,50000.0,0.0,,PHD,Doctor of Philosophy,4,6,1.0,1,1,100,9,F9
-Professor,Physics,100.0,89890.0,89890.0,0.0,T,PHD,Doctor of Philosophy,20,21,1.0,1,1,100,9,F9
-Professor,Physics,100.0,84010.0,84010.0,0.0,T,PHD,Doctor of Philosophy,12,12,1.0,1,1,100,9,F9
-Professor,Physics,100.0,97509.0,110629.0,13120.0,T,PHD,Doctor of Philosophy,18,19,1.0,1,1,100,9,F9
-Professor,Physics,100.0,108736.0,120403.0,11667.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Senior Instructor,Physics,100.0,70981.0,70981.0,0.0,N,PHD,Doctor of Philosophy,7,7,1.0,1,1,100,12,F2
-Reading Instructor,PI Carmouche Robert L,100.0,46963.0,46963.0,0.0,N,MS,Master of Science,7,7,1.0,1,1,100,12,F9
-Professor,PI Gopu Vijaya Krishna,80.4,152921.0,193320.0,40399.0,T,PHD,Doctor of Philosophy,3,28,1.0,1,1,100,9,F9
-Associate Dean,Political Science,69.38,64428.0,92863.0,28435.0,T,PHD,Doctor of Philosophy,13,20,1.0,1,1,100,9,F9
-Assistant Professor,Political Science,100.0,51000.0,54120.0,3120.0,O,PHD,Doctor of Philosophy,3,4,1.0,1,1,100,9,F9
-Associate Professor,Political Science,100.0,60000.0,63120.0,3120.0,,PHD,Doctor of Philosophy,1,3,1.0,1,1,100,9,F9
-Associate Professor,Political Science,100.0,64360.0,64360.0,0.0,T,PHD,Doctor of Philosophy,23,23,1.0,1,1,100,9,F9
-Professor,Political Science,100.0,78637.0,81757.0,3120.0,T,PHD,Doctor of Philosophy,22,21,1.0,1,1,100,9,F9
-Professor,Political Science,100.0,78831.0,108831.0,30000.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Professor,Political Science,100.0,72296.0,85416.0,13120.0,T,PHD,Doctor of Philosophy,17,18,1.0,1,1,100,9,F9
-Assistant Professor,Psychology,100.0,57002.0,57002.0,0.0,O,PHD,Doctor of Philosophy,5,6,1.0,1,1,100,9,F9
-Assistant Professor,Psychology,100.0,54000.0,54000.0,0.0,N,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Psychology,100.0,62623.0,62623.0,0.0,T,PHD,Doctor of Philosophy,24,25,1.0,1,1,100,9,F9
-Assistant Professor,Psychology,100.0,62704.0,62704.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Psychology,100.0,56391.0,56391.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Psychology,100.0,59897.0,59897.0,0.0,O,PHD,Doctor of Philosophy,12,13,1.0,1,1,100,9,F9
-Assistant Professor,Psychology,100.0,56241.0,56241.0,0.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Associate Professor,Psychology,100.0,63191.0,73191.0,10000.0,T,PHD,Doctor of Philosophy,9,9,1.0,1,1,100,9,F9
-Associate Professor,Psychology,100.0,65153.0,65153.0,0.0,T,PHD,Doctor of Philosophy,17,20,1.0,1,1,100,9,F9
-Associate Professor,Psychology,100.0,63633.0,66753.0,3120.0,O,PHD,Doctor of Philosophy,8,10,2.0,1,1,100,9,F9
-Associate Professor,Psychology,100.0,79076.0,79076.0,0.0,T,PHD,Doctor of Philosophy,18,20,1.0,1,1,100,9,F9
-Instructor,Psychology,100.0,47210.0,47210.0,0.0,N,MS,Master of Science,17,23,1.0,1,1,100,9,F9
-Instructor,Psychology,100.0,43000.0,43000.0,0.0,,MS,Master of Science,5,7,2.0,1,1,100,9,F9
-Master Instructor,Psychology,100.0,46367.0,46367.0,0.0,N,MS,Master of Science,10,11,1.0,1,1,100,9,F9
-Professor,Psychology,100.0,75591.0,78711.0,3120.0,T,PHD,Doctor of Philosophy,12,13,1.0,1,1,100,9,F9
-Senior Instructor,Psychology,100.0,44714.0,44714.0,0.0,N,PHD,Doctor of Philosophy,10,14,1.0,1,1,100,9,F9
-Senior Instructor,Psychology,100.0,45478.0,45478.0,0.0,N,MS,Master of Science,11,16,1.0,1,1,100,9,F9
-Senior Instructor,Psychology,100.0,41966.0,41966.0,0.0,N,MS,Master of Science,9,27,1.0,1,1,100,9,F9
-Assistant Professor,Sch of Computing & Informatics,100.0,95000.0,95000.0,0.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Sch of Computing & Informatics,100.0,96000.0,96000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Professor,Sch of Computing & Informatics,100.0,195476.0,195476.0,0.0,T,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,School of Architecture/Design,100.0,63424.0,63424.0,0.0,O,MFA,Master of Fine Arts,4,4,1.0,1,1,100,9,F9
-Assistant Professor,School of Architecture/Design,100.0,62192.0,62192.0,0.0,O,MFA,Master of Fine Arts,4,5,1.0,1,1,100,9,F9
-Assistant Professor,School of Architecture/Design,100.0,64082.0,64082.0,0.0,O,MFA,Master of Fine Arts,4,4,1.0,1,1,100,9,F9
-Assistant Professor,School of Architecture/Design,100.0,65207.0,65207.0,0.0,O,MARC,Master of Architecture,6,6,1.0,1,1,100,9,F9
-Assistant Professor,School of Architecture/Design,100.0,67000.0,67000.0,0.0,O,MARC,Master of Architecture,0,0,1.0,1,1,100,9,F9
-Assistant Professor,School of Architecture/Design,100.0,65378.0,65378.0,0.0,O,MARC,Master of Architecture,6,6,1.0,1,1,100,9,F9
-Associate Professor,School of Architecture/Design,100.0,70000.0,70000.0,0.0,O,MARC,Master of Architecture,0,7,1.0,1,1,100,9,F9
-Associate Professor,School of Architecture/Design,100.0,70407.0,70407.0,0.0,T,MFA,Master of Fine Arts,17,18,1.0,1,1,100,9,F9
-Associate Professor,School of Architecture/Design,100.0,68680.0,68680.0,0.0,O,MARC,Master of Architecture,5,6,1.0,1,1,100,9,F9
-Associate Professor,School of Architecture/Design,100.0,72500.0,72500.0,0.0,O,MS,Master of Science,1,1,1.0,1,1,100,9,F9
-Instructor,School of Architecture/Design,100.0,58555.0,58555.0,0.0,N,MARC,Master of Architecture,11,12,1.0,1,1,100,9,F9
-Lecturer,School of Architecture/Design,100.0,58054.0,58054.0,0.0,N,MLA,Master of Landscape Arch_,10,11,1.0,1,1,100,9,F9
-Professor,School of Architecture/Design,100.0,85489.0,88609.0,3120.0,T,MARC,Master of Architecture,18,20,1.0,1,1,100,9,F9
-Professor,School of Architecture/Design,100.0,117682.0,117682.0,0.0,T,MARC,Master of Architecture,42,44,1.0,1,1,100,9,F9
-Professor,School of Architecture/Design,100.0,83373.0,83373.0,0.0,T,MFA,Master of Fine Arts,29,30,1.0,1,1,100,9,F9
-Professor,School of Architecture/Design,100.0,84007.0,87127.0,3120.0,T,MARC,Master of Architecture,16,17,1.0,1,1,100,9,F9
-Professor,School of Architecture/Design,100.0,115338.0,118458.0,3120.0,T,MARC,Master of Architecture,24,24,1.0,1,1,100,9,F9
-Professor,School of Architecture/Design,100.0,76764.0,79884.0,3120.0,T,MARC,Master of Architecture,11,13,1.0,1,1,100,9,F9
-Assistant Professor,School of Geoscience,100.0,69296.0,69296.0,0.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Assistant Professor,School of Geoscience,100.0,70000.0,73120.0,3120.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,School of Geoscience,100.0,75000.0,78120.0,3120.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,School of Geoscience,100.0,72699.0,75819.0,3120.0,O,PHD,Doctor of Philosophy,4,4,1.0,1,1,100,9,F9
-Associate Professor,School of Geoscience,100.0,74629.0,74629.0,0.0,T,PHD,Doctor of Philosophy,34,35,1.0,1,1,100,9,F9
-Associate Professor,School of Geoscience,100.0,73677.0,76797.0,3120.0,O,PHD,Doctor of Philosophy,5,6,1.0,1,1,100,9,F9
-Associate Professor,School of Geoscience,100.0,81915.0,85035.0,3120.0,O,PHD,Doctor of Philosophy,6,6,1.0,1,1,100,9,F9
-Instructor,School of Geoscience,100.0,47000.0,47000.0,0.0,,MS,Master of Science,10,13,1.0,1,1,100,9,F9
-Instructor,School of Geoscience,100.0,50000.0,50000.0,0.0,,PHD,Doctor of Philosophy,2,3,1.0,1,1,100,9,F9
-Professor,School of Geoscience,100.0,94722.0,94722.0,0.0,T,PHD,Doctor of Philosophy,41,38,1.0,1,1,100,9,F9
-Professor,School of Geoscience,100.0,90697.0,93817.0,3120.0,T,PHD,Doctor of Philosophy,18,19,1.0,1,1,100,9,F9
-Professor,School of Geoscience,100.0,96050.0,99170.0,3120.0,T,PHD,Doctor of Philosophy,16,16,1.0,1,1,100,9,F9
-Professor & Director,School of Geoscience,100.0,120000.0,140000.0,20000.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,"Sociology, Anthropology, and CAFS",100.0,51000.0,51000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Assistant Professor,"Sociology, Anthropology, and CAFS",100.0,50000.0,50000.0,0.0,N,PHD,Doctor of Philosophy,1,1,1.0,1,1,0,9,F9
-Assistant Professor,"Sociology, Anthropology, and CAFS",100.0,55000.0,55000.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Assistant Professor,"Sociology, Anthropology, and CAFS",100.0,56809.0,56809.0,0.0,O,PHD,Doctor of Philosophy,10,11,1.0,1,1,100,9,F9
-Assistant Professor,"Sociology, Anthropology, and CAFS",100.0,50000.0,50000.0,0.0,O,PHD,Doctor of Philosophy,5,8,1.0,1,1,100,9,F9
-Associate Professor,"Sociology, Anthropology, and CAFS",100.0,66586.0,66586.0,0.0,T,PHD,Doctor of Philosophy,17,18,1.0,1,1,100,9,F9
-Associate Professor,"Sociology, Anthropology, and CAFS",100.0,58226.0,58226.0,0.0,T,PHD,Doctor of Philosophy,17,18,1.0,1,1,100,9,F9
-Associate Professor,"Sociology, Anthropology, and CAFS",100.0,52527.0,55647.0,3120.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Associate Professor,"Sociology, Anthropology, and CAFS",100.0,68475.0,68475.0,0.0,T,PHD,Doctor of Philosophy,23,25,1.0,1,1,100,9,F9
-Instructor,"Sociology, Anthropology, and CAFS",100.0,46000.0,46000.0,0.0,N,MED,Master of Education,0,0,1.0,1,1,100,9,F9
-Instructor,"Sociology, Anthropology, and CAFS",100.0,41000.0,41000.0,0.0,,PHD,Doctor of Philosophy,0,8,1.0,1,1,100,9,F9
-Professor,"Sociology, Anthropology, and CAFS",100.0,82119.0,82119.0,0.0,T,PHD,Doctor of Philosophy,14,14,1.0,1,1,100,9,F9
-Professor,"Sociology, Anthropology, and CAFS",100.0,129233.0,132353.0,3120.0,T,PHD,Doctor of Philosophy,35,34,1.0,1,1,100,9,F9
-Professor,"Sociology, Anthropology, and CAFS",100.0,77745.0,77745.0,0.0,T,DO,Doctorat (France)_,26,27,1.0,1,1,100,9,F9
-Professor,"Sociology, Anthropology, and CAFS",100.0,82288.0,92288.0,10000.0,T,PHD,Doctor of Philosophy,25,25,1.0,1,1,100,9,F9
-Professor,"Sociology, Anthropology, and CAFS",100.0,82025.0,85145.0,3120.0,T,PHD,Doctor of Philosophy,17,18,1.0,1,1,100,9,F9
-Professor,"Sociology, Anthropology, and CAFS",100.0,85429.0,85429.0,0.0,T,PHD,Doctor of Philosophy,11,22,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,63713.0,63713.0,0.0,T,EDD,Doctor of Education,13,14,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60500.0,60500.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,62484.0,62484.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,61700.0,61700.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60500.0,60500.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60500.0,60500.0,0.0,O,EDD,Doctor of Education,1,1,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60623.0,60623.0,0.0,O,PHD,Doctor of Philosophy,3,4,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60500.0,60500.0,0.0,,,,0,0,1.0,1,1,0,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60141.0,60141.0,0.0,O,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60164.0,60164.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60500.0,60500.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,60500.0,60500.0,0.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Curriculum & Instruc,100.0,59771.0,59771.0,0.0,O,PHD,Doctor of Philosophy,3,12,1.0,1,1,100,9,F9
-Associate Professor,Tchr Ed Curriculum & Instruc,100.0,75737.0,78857.0,3120.0,T,PHD,Doctor of Philosophy,15,17,1.0,1,1,100,9,F9
-Associate Professor,Tchr Ed Curriculum & Instruc,100.0,76137.0,79257.0,3120.0,T,PHD,Doctor of Philosophy,14,16,1.0,1,1,100,9,F9
-Associate Professor,Tchr Ed Curriculum & Instruc,100.0,66863.0,66863.0,0.0,T,PHD,Doctor of Philosophy,17,18,1.0,1,1,100,9,F9
-Instructor,Tchr Ed Curriculum & Instruc,100.0,49845.0,49845.0,0.0,N,MED,Master of Education,4,6,1.0,1,1,100,9,F9
-Instructor,Tchr Ed Curriculum & Instruc,100.0,19162.0,19162.0,0.0,N,MED,Master of Education,6,9,0.5,1,1,50,9,F9
-Instructor,Tchr Ed Curriculum & Instruc,100.0,45637.0,45637.0,0.0,N,MED,Master of Education,4,5,1.0,1,1,100,9,F9
-Instructor,Tchr Ed Curriculum & Instruc,100.0,51088.0,51088.0,0.0,N,MED,Master of Education,21,21,1.0,1,1,100,9,F9
-Instructor,Tchr Ed Curriculum & Instruc,100.0,47732.0,47732.0,0.0,N,MED,Master of Education,7,23,1.0,1,1,100,9,F9
-Master Instructor,Tchr Ed Curriculum & Instruc,100.0,54949.0,54949.0,0.0,N,MED,Master of Education,17,20,1.0,1,1,100,9,F9
-Master Instructor,Tchr Ed Curriculum & Instruc,100.0,51998.0,51998.0,0.0,N,PHD,Doctor of Philosophy,21,23,1.0,1,1,100,9,F9
-Master Instructor,Tchr Ed Curriculum & Instruc,100.0,46992.0,46992.0,0.0,N,MA,Master of Arts,15,16,1.0,1,1,100,9,F9
-Professor,Tchr Ed Curriculum & Instruc,100.0,99772.0,112892.0,13120.0,T,PHD,Doctor of Philosophy,12,23,1.0,1,1,100,9,F9
-Professor,Tchr Ed Curriculum & Instruc,100.0,100332.0,103452.0,3120.0,T,PHD,Doctor of Philosophy,27,35,1.0,1,1,100,9,F9
-Professor,Tchr Ed Curriculum & Instruc,100.0,104112.0,107232.0,3120.0,T,PHD,Doctor of Philosophy,19,21,1.0,1,1,100,9,F9
-Senior Instructor,Tchr Ed Curriculum & Instruc,100.0,50144.0,50144.0,0.0,N,MED,Master of Education,6,7,1.0,1,1,100,9,F9
-Senior Instructor,Tchr Ed Curriculum & Instruc,100.0,45243.0,45243.0,0.0,N,MED,Master of Education,10,16,1.0,1,1,100,9,F9
-Associate Professor,Tchr Ed Curriculum & Instruc,90.0,59548.0,69284.0,9736.0,O,PHD,Doctor of Philosophy,3,14,2.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Found & Leadership,100.0,65000.0,65000.0,0.0,O,PHD,Doctor of Philosophy,1,1,1.0,1,1,100,9,FA
-Assistant Professor,Tchr Ed Found & Leadership,100.0,61969.0,61969.0,0.0,O,EDD,Doctor of Education,3,4,1.0,1,1,100,9,F9
-Assistant Professor,Tchr Ed Found & Leadership,100.0,65000.0,65000.0,0.0,,,,0,0,1.0,1,1,100,9,F9
-Associate Professor,Tchr Ed Found & Leadership,100.0,65918.0,69038.0,3120.0,O,PHD,Doctor of Philosophy,7,7,1.0,1,1,100,9,F9
-Associate Professor,Tchr Ed Found & Leadership,100.0,69373.0,72493.0,3120.0,T,PHD,Doctor of Philosophy,5,5,1.0,1,1,100,9,F9
-Associate Professor,Tchr Ed Found & Leadership,100.0,76000.0,76000.0,0.0,O,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Associate Professor,Tchr Ed Found & Leadership,100.0,68247.0,71367.0,3120.0,T,PHD,Doctor of Philosophy,11,20,1.0,1,1,100,9,F9
-Asst Professor & Assess Coor,Tchr Ed Found & Leadership,100.0,64111.0,73111.0,9000.0,O,EDD,Doctor of Education,7,8,1.0,1,1,100,9,F9
-Professor,Tchr Ed Found & Leadership,100.0,76513.0,79633.0,3120.0,T,PHD,Doctor of Philosophy,13,14,1.0,1,1,100,9,F9
-Professor,Tchr Ed Found & Leadership,100.0,102839.0,105959.0,3120.0,T,JD,Juris Doctorate,6,14,1.0,1,1,100,9,F9
-Professor,Tchr Ed Found & Leadership,100.0,92876.0,92876.0,0.0,T,EDD,Doctor of Education,32,31,1.0,1,1,100,9,F9
-Professor,Tchr Ed Found & Leadership,100.0,80000.0,83120.0,3120.0,T,PHD,Doctor of Philosophy,11,13,1.0,1,1,100,9,F9
-Professor,Tchr Ed Found & Leadership,100.0,99680.0,112800.0,13120.0,T,PHD,Doctor of Philosophy,11,14,1.0,1,1,100,9,F9
-Senior Instructor,Tchr Ed Found & Leadership,100.0,51716.0,51716.0,0.0,N,EDS,Educational Specialist_,7,9,1.0,1,1,100,9,F9
-Senior Instructor,Tchr Ed Found & Leadership,100.0,52168.0,52168.0,0.0,N,EDS,Educational Specialist_,7,10,1.0,1,1,100,9,F9
-Professor,UNIV 100,100.0,99303.0,99303.0,0.0,T,PHD,Doctor of Philosophy,21,21,1.0,1,1,100,9,F9
-Instructor,UNIV 200,100.0,47000.0,47000.0,0.0,N,MBA,Master of Business Admin.,11,17,1.0,1,1,100,9,F9
-Instructor,UNIV 200,100.0,45139.0,45139.0,0.0,N,MBA,Master of Business Admin.,7,11,1.0,1,1,100,9,F9
-Instructor,UNIV 200,100.0,52684.0,52684.0,0.0,N,MED,Master of Education,32,34,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,53761.0,53761.0,0.0,O,MFA,Master of Fine Arts,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,51858.0,51858.0,0.0,O,PHD,Doctor of Philosophy,3,3,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,54376.0,54376.0,0.0,O,MFA,Master of Fine Arts,4,5,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,50000.0,50000.0,0.0,T,MFA,Master of Fine Arts,36,35,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,52117.0,55237.0,3120.0,O,PHD,Doctor of Philosophy,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,53761.0,53761.0,0.0,O,MFA,Master of Fine Arts,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,51695.0,51695.0,0.0,O,MFA,Master of Fine Arts,2,2,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,53761.0,53761.0,0.0,,PHD,Doctor of Philosophy,0,0,1.0,1,1,100,9,F9
-Assistant Professor,Visual Arts,100.0,50000.0,50000.0,0.0,O,MFA,Master of Fine Arts,1,1,1.0,1,1,100,9,F9
-Associate Professor,Visual Arts,100.0,61820.0,64940.0,3120.0,T,MFA,Master of Fine Arts,11,13,1.0,1,1,100,9,F9
-Associate Professor,Visual Arts,100.0,55517.0,55517.0,0.0,O,MFA,Master of Fine Arts,10,10,1.0,1,1,100,9,F9
-Associate Professor,Visual Arts,100.0,61539.0,61539.0,0.0,T,MFA,Master of Fine Arts,11,11,1.0,1,1,100,9,F9
-Associate Professor,Visual Arts,100.0,66936.0,66936.0,0.0,T,MFA,Master of Fine Arts,14,15,1.0,1,1,100,9,F9
-Associate Professor,Visual Arts,100.0,54586.0,54586.0,0.0,T,MFA,Master of Fine Arts,12,13,1.0,1,1,100,9,F9
-Instructor,Visual Arts,100.0,50000.0,50000.0,0.0,,MFA,Master of Fine Arts,0,10,1.0,1,1,100,9,F9
-Professor,Visual Arts,100.0,66805.0,66805.0,0.0,T,MFA,Master of Fine Arts,18,24,1.0,1,1,100,9,F9
-Professor,Visual Arts,100.0,68455.0,68455.0,0.0,T,MFA,Master of Fine Arts,20,21,1.0,1,1,100,9,F9
-Professor,Visual Arts,100.0,67686.0,70806.0,3120.0,T,MFA,Master of Fine Arts,18,18,1.0,1,1,100,9,F9
-Professor,Visual Arts,100.0,84990.0,88110.0,3120.0,T,MFA,Master of Fine Arts,19,19,1.0,1,1,100,9,F9
+,,FOAPAL_SALARY,FOAPAL_SALARY,FOAPAL_SALARY
+,,mean,min,max
+DEPARTMENT,TITLE,,,
+Accounting,Assistant Professor,138666.6667,138000,139000
+Accounting,Associate Professor,130921,130108,131484
+Accounting,Master Instructor,68778.5,67396,70161
+Accounting,Professor,143844,143844,143844
+Accounting,Professor And Head,147426,147426,147426
+Accounting,Senior Instructor,64708,64627,64789
+Allied Health,Assistant Professor,70113,70113,70113
+Allied Health,Instructor,63530.33333,62000,66000
+Allied Health,Master Instructor,68344,68344,68344
+Allied Health,Professor,123459.5,116757,130162
+Allied Health,Senior Instructor,67791,67791,67791
+Baccalaureate Nursing,Assistant Professor,73747.8,62900,90000
+Baccalaureate Nursing,Associate Professor,86626.55556,73745,99021
+Baccalaureate Nursing,Instructor,58852.90909,41600,70000
+Baccalaureate Nursing,Master Instructor,65596,58992,71281
+Baccalaureate Nursing,Professor,102280,102280,102280
+Biology,Assistant Professor,79253.9,60000,83000
+Biology,Associate Professor,85510,76826,98627
+Biology,Instructor,46333.33333,46000,47000
+Biology,Master Instructor,49211.33333,48667,49977
+Biology,Professor,115939,91349,148636
+Chemical Engineering,Assistant Professor,89079.33333,87869,90000
+Chemical Engineering,Associate Professor,94964,94964,94964
+Chemical Engineering,Instructor,88535,75000,112572
+Chemical Engineering,Professor,181734,165202,200000
+Chemistry,Assistant Professor,70164.66667,68650,72000
+Chemistry,Associate Professor,74845,71066,77184
+Chemistry,Instructor,50239,50239,50239
+Chemistry,Professor,89426.8,84180,95567
+Civil Engineering,Assistant Professor,88789,85578,92000
+Civil Engineering,Instructor,64280,46560,82000
+Civil Engineering,Professor,117657.1667,98094,136083
+Cntr Fr Adv Computer Study,Assistant Professor,95772.66667,92714,98604
+Cntr Fr Adv Computer Study,Associate Professor,111373.6667,105370,118423
+Cntr Fr Adv Computer Study,Professor,167136.25,138079,193190
+Communication,Assistant Professor,55205.57143,53000,57000
+Communication,Associate Professor,65967,61457,70477
+Communication,Instructor,47041.33333,45000,48124
+Communication,Professor,78818.5,66545,97042
+Communication,Senior Instructor,49115,47396,50834
+Communicative Disorders,Assistant Professor,75000,75000,75000
+Communicative Disorders,Associate Professor,74359.66667,69664,77467
+Communicative Disorders,Professor,120120.4,93500,143300
+Computer Science,Assistant Professor,89442.33333,88800,90146
+Computer Science,Associate Professor,96794,96794,96794
+Computer Science,Master Instructor,75026.5,74739,75314
+Counselor Education,Associate Professor,69946.5,64984,81332
+Counselor Education,Professor,89715,89715,89715
+Criminal Justice,Assistant Professor,55082.5,53000,57165
+Criminal Justice,Associate Professor,61202,61202,61202
+Criminal Justice,Master Instructor,49393,49259,49527
+Dean of Nursing&Allied Hlth Prof,Instructor,59134.25,56274,65738
+Dean of Nursing&Allied Hlth Prof,Senior Instructor,55393,55393,55393
+Economics & Finance,Assistant Professor,77665,60000,95330
+Economics & Finance,Associate Professor,104512.3333,93788,119712
+Economics & Finance,Instructor,58265.4,51068,67348
+Economics & Finance,Professor,134703.2857,82005,210000
+Elect & Computer Engineering,Assistant Professor,89569.25,88000,92548
+Elect & Computer Engineering,Associate Professor,98140,98140,98140
+Elect & Computer Engineering,Instructor,82500,75000,90000
+Elect & Computer Engineering,Professor,129330.75,100441,212000
+English,Assisant Professor,50000,50000,50000
+English,Assistant Professor,50387.125,48000,52782
+English,Associate Professor,58335.44444,52698,67775
+English,Instructor,40492.28571,36046,48247
+English,Master Instructor,48777.2,44283,54547
+English,Professor,80815.63636,67660,102080
+English,Senior Instructor,41670.25,37763,51053
+History & Geography,Assistant Professor,53644.71429,50000,59720
+History & Geography,Associate Professor,64893,61853,69058
+History & Geography,Instructor,39063,39063,39063
+History & Geography,Professor,91952.66667,88791,97067
+History & Geography,Senior Instructor,45009.5,43712,46307
+Industrial Technology,Assistant Professor,80241.5,79475,81008
+Industrial Technology,Associate Professor,82241,82241,82241
+Industrial Technology,Instructor,76196.6,59854,86129
+Industrial Technology,Professor,101256.3333,96453,110155
+Informatics,Assistant Professor,83177,83177,83177
+Informatics,Associate Professor,109947.5,106968,112927
+Informatics,Senior Instructor,64343,58686,70000
+Kinesiology,Assistant Professor,61987,53730,65000
+Kinesiology,Associate Professor,67574.66667,65353,71436
+Kinesiology,Instructor,47061,44000,50122
+Kinesiology,Master Instructor,53546,53546,53546
+Kinesiology,Professor,87156.33333,81574,96385
+Kinesiology,Senior Instructor,52236.5,50467,54006
+Library,Assistant Professor,58024,55000,71162
+Library,Associate Professor,72763.5,70000,75527
+Library,Instructor,45509.66667,45000,47000
+Library,Senior Instructor,48073,48073,48073
+Management,Assistant Professor,75000,75000,75000
+Management,Associate Professor,124051,118474,131213
+Management,Instructor,61735.4,48073,108014
+Management,Master Instructor,64356.5,59542,69171
+Management,Professor,137837,126573,153242
+Management,Senior Instructor,48401,48401,48401
+Marketing & Hospitality,Associate Professor,121406.8,113299,131121
+Marketing & Hospitality,Instructor,54128,54128,54128
+Marketing & Hospitality,Professor,162338,162338,162338
+Mathematics,Assistant Professor,75974.75,67645,82000
+Mathematics,Associate Professor,78406.16667,74286,82213
+Mathematics,Instructor,46897.6,43000,50000
+Mathematics,Master Instructor,49967,49647,50287
+Mathematics,Professor,114742.125,85165,125596
+Mathematics,Senior Instructor,47537.4,47146,48116
+Mechanical Engineering,Assistant Professor,82924,46301,94804
+Mechanical Engineering,Associate Professor,98733,89156,106900
+Mechanical Engineering,Instructor,82945.5,75000,95513
+Mechanical Engineering,Professor,136408.8,120376,171000
+Modern Languages,Assistant Professor,56620.66667,55570,58292
+Modern Languages,Associate Professor,61972.75,58501,63769
+Modern Languages,Instructor,35909,35909,35909
+Modern Languages,Master Instructor,42937.25,39179,45866
+Modern Languages,Professor,71315.33333,64923,83689
+Music,Assistant Professor,53352.85714,48878,58500
+Music,"Assistant Professor, A D Bands",52000,52000,52000
+Music,Associate Professor,61537.25,54744,72788
+Music,Instructor,49673,49673,49673
+Music,Master Instructor,52217.66667,50306,53540
+Music,Professor,86588.25,65293,114074
+PI Carmouche Robert L,Reading Instructor,46963,46963,46963
+PI Gopu Vijaya Krishna,Professor,152921,152921,152921
+Performing Arts,Assistant Professor,57388,50083,64081
+Performing Arts,Associate Professor,59251,58329,60173
+Performing Arts,Instructor,48747.5,45495,52000
+Petroleum Engineering,Assistant Professor,91977.33333,90029,94804
+Petroleum Engineering,Instructor,82795,78153,92000
+Petroleum Engineering,Professor,134277.6667,132442,136573
+Physics,Assistant Professor,78000,78000,78000
+Physics,Associate Professor,79417,77406,81428
+Physics,Instructor,50000,50000,50000
+Physics,Professor,95036.25,84010,108736
+Physics,Senior Instructor,70981,70981,70981
+Political Science,Assistant Professor,51000,51000,51000
+Political Science,Associate Dean,64428,64428,64428
+Political Science,Associate Professor,62180,60000,64360
+Political Science,Professor,76588,72296,78831
+Psychology,Assistant Professor,58408.28571,54000,62704
+Psychology,Associate Professor,67763.25,63191,79076
+Psychology,Instructor,45105,43000,47210
+Psychology,Master Instructor,46367,46367,46367
+Psychology,Professor,75591,75591,75591
+Psychology,Senior Instructor,44052.66667,41966,45478
+Sch of Computing & Informatics,Assistant Professor,95500,95000,96000
+Sch of Computing & Informatics,Professor,195476,195476,195476
+School of Architecture/Design,Assistant Professor,64547.16667,62192,67000
+School of Architecture/Design,Associate Professor,70396.75,68680,72500
+School of Architecture/Design,Instructor,58555,58555,58555
+School of Architecture/Design,Lecturer,58054,58054,58054
+School of Architecture/Design,Professor,93775.5,76764,117682
+School of Geoscience,Assistant Professor,71748.75,69296,75000
+School of Geoscience,Associate Professor,76740.33333,73677,81915
+School of Geoscience,Instructor,48500,47000,50000
+School of Geoscience,Professor,93823,90697,96050
+School of Geoscience,Professor & Director,120000,120000,120000
+"Sociology, Anthropology, and CAFS",Assistant Professor,52561.8,50000,56809
+"Sociology, Anthropology, and CAFS",Associate Professor,61453.5,52527,68475
+"Sociology, Anthropology, and CAFS",Instructor,43500,41000,46000
+"Sociology, Anthropology, and CAFS",Professor,89806.5,77745,129233
+Tchr Ed Curriculum & Instruc,Assistant Professor,60892,59771,63713
+Tchr Ed Curriculum & Instruc,Associate Professor,69571.25,59548,76137
+Tchr Ed Curriculum & Instruc,Instructor,42692.8,19162,51088
+Tchr Ed Curriculum & Instruc,Master Instructor,51313,46992,54949
+Tchr Ed Curriculum & Instruc,Professor,101405.3333,99772,104112
+Tchr Ed Curriculum & Instruc,Senior Instructor,47693.5,45243,50144
+Tchr Ed Found & Leadership,Assistant Professor,63989.66667,61969,65000
+Tchr Ed Found & Leadership,Associate Professor,69884.5,65918,76000
+Tchr Ed Found & Leadership,Asst Professor & Assess Coor,64111,64111,64111
+Tchr Ed Found & Leadership,Professor,90381.6,76513,102839
+Tchr Ed Found & Leadership,Senior Instructor,51942,51716,52168
+UNIV 100,Professor,99303,99303,99303
+UNIV 200,Instructor,48274.33333,45139,52684
+Visual Arts,Assistant Professor,52369.88889,50000,54376
+Visual Arts,Associate Professor,60079.6,54586,66936
+Visual Arts,Instructor,50000,50000,50000
+Visual Arts,Professor,71984,66805,84990
