@@ -1,0 +1,627 @@
+TITLE,DEPARTMENT,PERCENTAGE,FOAPAL_SALARY,TOTAL_SALARY,OTHER_SALARY,TENURE,DEGREE,DEGREE_DESC,YEARS_HERE,YEARS_TOTAL,POSITION_FTE,JOB FTE,BUDGET_FTE,JOB_PCT,MONTHS_EMPL,POSN_ECLS
+Assistant Professor,Accounting,100,"139,000.00","139,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Assistant Professor,Accounting,100,"139,000.00","139,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Assistant Professor,Accounting,100,"138,000.00","138,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Associate Professor,Accounting,100,"131,171.00","134,291.00","3,120.00",T,PHD,Doctor of Philosophy,18,22,1,1,1,100,9,F9
+Associate Professor,Accounting,100,"131,484.00","137,724.00","6,240.00",T,PHD,Doctor of Philosophy,21,22,1,1,1,100,9,F9
+Associate Professor,Accounting,100,"130,108.00","139,468.00","9,360.00",O,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Master Instructor,Accounting,100,"67,396.00","67,396.00",0.00,N,DBA,Doctor of Business Admin_,12,12,1,1,1,100,9,F9
+Master Instructor,Accounting,100,"70,161.00","76,401.00","6,240.00",N,MBA,Master of Business Admin.,20,21,1,1,1,100,9,F9
+Professor,Accounting,100,"143,844.00","150,084.00","6,240.00",T,PHD,Doctor of Philosophy,28,28,1,1,1,100,9,F9
+Professor And Head,Accounting,100,"147,426.00","173,666.00","26,240.00",T,PHD,Doctor of Philosophy,39,37,1,1,1,100,9,F9
+Senior Instructor,Accounting,100,"64,627.00","64,627.00",0.00,N,MBA,Master of Business Admin.,5,5,1,1,1,100,9,F9
+Senior Instructor,Accounting,100,"64,789.00","64,789.00",0.00,N,MS,Master of Science,6,9,1,1,1,100,9,F9
+Assistant Professor,Allied Health,100,"70,113.00","73,233.00","3,120.00",O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Instructor,Allied Health,100,"62,000.00","62,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Instructor,Allied Health,100,"66,000.00","66,000.00",0.00,N,MS,Master of Science,2,2,1,1,1,100,9,F9
+Instructor,Allied Health,100,"62,591.00","62,591.00",0.00,N,MBA,Master of Business Admin.,4,4,1,1,1,100,9,F9
+Master Instructor,Allied Health,100,"68,344.00","68,344.00",0.00,N,MS,Master of Science,11,12,1,1,1,100,9,F9
+Professor,Allied Health,100,"130,162.00","130,162.00",0.00,T,PHD,Doctor of Philosophy,22,22,1,1,1,100,9,F9
+Professor,Allied Health,100,"116,757.00","129,877.00","13,120.00",T,EDD,Doctor of Education,42,43,1,1,1,100,9,F9
+Senior Instructor,Allied Health,100,"67,791.00","67,791.00",0.00,N,MS,Master of Science,6,7,1,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"62,900.00","62,900.00",0.00,N,DNP,Doctor of Nursing Practice,6,7,1,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"81,096.00","84,216.00","3,120.00",O,DNP,Doctor of Nursing Practice,7,7,1,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"73,406.00","76,526.00","3,120.00",O,DNP,Doctor of Nursing Practice,3,3,1,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"71,724.00","71,724.00",0.00,N,DNP,Doctor of Nursing Practice,9,10,1,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"65,756.00","68,876.00","3,120.00",N,DNP,Doctor of Nursing Practice,9,10,2,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"73,000.00","73,000.00",0.00,O,DNP,Doctor of Nursing Practice,0,0,1,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"90,000.00","90,000.00",0.00,,,,0,0,1,1,1,0,12,F2
+Assistant Professor,Baccalaureate Nursing,100,"73,081.00","73,081.00",0.00,O,DNP,Doctor of Nursing Practice,3,3,1,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"66,632.00","66,632.00",0.00,N,DNP,Doctor of Nursing Practice,6,18,1,1,1,100,9,F9
+Assistant Professor,Baccalaureate Nursing,100,"79,883.00","79,883.00",0.00,N,DNP,Doctor of Nursing Practice,7,10,1,1,1,100,12,FA
+Associate Professor,Baccalaureate Nursing,100,"99,021.00","127,141.00","28,120.00",T,DNP,Doctor of Nursing Practice,16,17,1,1,1,100,9,F9
+Associate Professor,Baccalaureate Nursing,100,"82,282.00","85,402.00","3,120.00",O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Associate Professor,Baccalaureate Nursing,100,"90,909.00","90,909.00",0.00,T,PHD,Doctor of Philosophy,16,17,1,1,1,100,9,F9
+Associate Professor,Baccalaureate Nursing,100,"76,943.00","80,063.00","3,120.00",O,DNP,Doctor of Nursing Practice,14,28,1,1,1,100,9,F9
+Associate Professor,Baccalaureate Nursing,100,"86,877.00","89,997.00","3,120.00",O,DNP,Doctor of Nursing Practice,13,14,1,1,1,100,9,F9
+Associate Professor,Baccalaureate Nursing,100,"73,745.00","76,865.00","3,120.00",O,DNP,Doctor of Nursing Practice,5,21,1,1,1,100,9,F9
+Associate Professor,Baccalaureate Nursing,100,"94,687.00","97,807.00","3,120.00",T,DSN,Doctor of Science in Nursing_,9,18,1,1,1,100,9,F9
+Associate Professor,Baccalaureate Nursing,100,"84,394.00","84,394.00",0.00,T,DSN,Doctor of Science in Nursing_,19,23,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"56,971.00","56,971.00",0.00,N,MSN,MS in Nursing,3,8,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"58,321.00","58,321.00",0.00,,MSN,MS in Nursing,3,3,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"68,000.00","68,000.00",0.00,N,MS,Master of Science,1,2,1,1,1,100,12,FA
+Instructor,Baccalaureate Nursing,100,"59,000.00","59,000.00",0.00,,M,"Master's, Unspecified_",0,1,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"54,833.00","54,833.00",0.00,N,MSN,MS in Nursing,1,1,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"61,390.00","61,390.00",0.00,N,MS,Master of Science,2,2,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"54,492.00","54,492.00",0.00,N,MS,Master of Science,4,5,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"56,611.00","56,611.00",0.00,N,MSN,MS in Nursing,4,4,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"60,556.00","60,556.00",0.00,N,MSN,MS in Nursing,8,9,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"53,718.00","53,718.00",0.00,N,MSN,MS in Nursing,5,5,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"61,390.00","61,390.00",0.00,N,MS,Master of Science,2,2,1,1,1,100,12,FA
+Instructor,Baccalaureate Nursing,100,"62,000.00","62,000.00",0.00,N,MSN,MS in Nursing,1,2,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"59,000.00","59,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Instructor,Baccalaureate Nursing,100,"62,000.00","62,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Instructor,Baccalaureate Nursing,100,"58,944.00","58,944.00",0.00,N,MSN,MS in Nursing,2,2,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"56,274.00","56,274.00",0.00,N,BS,Bachelor of Science,2,3,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"70,000.00","70,000.00",0.00,O,DNP,Doctor of Nursing Practice,1,2,1,1,1,100,12,FA
+Instructor,Baccalaureate Nursing,100,"61,390.00","61,390.00",0.00,N,MSN,MS in Nursing,4,5,1,1,1,100,12,FA
+Instructor,Baccalaureate Nursing,100,"60,000.00","60,000.00",0.00,,MSN,MS in Nursing,0,0,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"41,600.00","41,600.00",0.00,N,MSN,MS in Nursing,3,12,1,1,1,82,9,F9
+Instructor,Baccalaureate Nursing,100,"56,274.00","56,274.00",0.00,N,MSN,MS in Nursing,2,3,1,1,1,100,9,F9
+Instructor,Baccalaureate Nursing,100,"62,000.00","62,000.00",0.00,,MSN,MS in Nursing,0,0,1,1,1,100,9,F9
+Master Instructor,Baccalaureate Nursing,100,"66,515.00","66,515.00",0.00,N,MSN,MS in Nursing,10,11,1,1,1,100,9,F9
+Master Instructor,Baccalaureate Nursing,100,"58,992.00","58,992.00",0.00,N,MSN,MS in Nursing,14,12,1,1,1,100,9,F9
+Master Instructor,Baccalaureate Nursing,100,"71,281.00","71,281.00",0.00,N,MSN,MS in Nursing,25,27,1,1,1,100,9,F9
+Professor,Baccalaureate Nursing,100,"102,280.00","105,400.00","3,120.00",T,EDD,Doctor of Education,52,49,1,1,1,100,9,F9
+Associate Professor,Baccalaureate Nursing,100,"90,781.00","108,901.00","18,120.00",O,DNP,Doctor of Nursing Practice,11,12,1,1,1,100,12,FA
+Assistant Professor,Biology,100,"82,000.00","82,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Biology,100,"81,000.00","81,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F2
+Assistant Professor,Biology,100,"82,000.00","82,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Biology,100,"82,110.00","82,110.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Biology,100,"79,085.00","79,085.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Biology,100,"82,176.00","85,296.00","3,120.00",O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Biology,100,"83,000.00","83,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Biology,100,"80,000.00","83,120.00","3,120.00",O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Biology,100,"81,168.00","81,168.00",0.00,O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Assistant Professor,Biology,100,"60,000.00","60,000.00",0.00,,,,5,5,1,1,1,100,9,F9
+Associate Professor,Biology,100,"76,826.00","76,826.00",0.00,T,PHD,Doctor of Philosophy,31,31,1,1,1,100,9,F9
+Associate Professor,Biology,100,"87,834.00","90,954.00","3,120.00",T,PHD,Doctor of Philosophy,9,10,1,1,1,100,9,F9
+Associate Professor,Biology,100,"80,206.00","80,206.00",0.00,T,PHD,Doctor of Philosophy,23,23,1,1,1,100,9,F9
+Associate Professor,Biology,100,"98,627.00","101,747.00","3,120.00",T,PHD,Doctor of Philosophy,30,29,1,1,1,100,9,F9
+Associate Professor,Biology,100,"89,386.00","89,386.00",0.00,O,PHD,Doctor of Philosophy,6,6,1,1,1,100,9,F9
+Associate Professor,Biology,100,"80,181.00","80,181.00",0.00,T,PHD,Doctor of Philosophy,9,10,1,1,1,100,9,F9
+Instructor,Biology,100,"46,000.00","46,000.00",0.00,N,MS,Master of Science,1,1,1,1,1,100,9,F9
+Instructor,Biology,100,"46,000.00","46,000.00",0.00,,MS,Master of Science,0,12,1,1,1,100,9,F9
+Instructor,Biology,100,"47,000.00","47,000.00",0.00,,PHD,Doctor of Philosophy,2,3,2,1,1,100,9,F9
+Master Instructor,Biology,100,"48,990.00","48,990.00",0.00,N,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Master Instructor,Biology,100,"48,667.00","48,667.00",0.00,N,MS,Master of Science,4,15,3,1,1,100,9,F9
+Master Instructor,Biology,100,"49,977.00","49,977.00",0.00,N,MS,Master of Science,21,35,1,1,1,100,9,F9
+Professor,Biology,100,"100,175.00","103,295.00","3,120.00",T,PHD,Doctor of Philosophy,14,14,1,1,1,100,9,F9
+Professor,Biology,100,"94,151.00","94,151.00",0.00,T,,,16,17,1,1,1,100,9,F9
+Professor,Biology,100,"94,509.00","97,629.00","3,120.00",T,PHD,Doctor of Philosophy,15,14,1,1,1,100,9,F9
+Professor,Biology,100,"117,994.00","121,114.00","3,120.00",T,PHD,Doctor of Philosophy,22,23,1,1,1,100,9,F9
+Professor,Biology,100,"146,725.00","149,845.00","3,120.00",T,PHD,Doctor of Philosophy,31,30,1,1,1,100,9,F9
+Professor,Biology,100,"110,263.00","113,383.00","3,120.00",,,,0,0,1,1,1,100,9,F9
+Professor,Biology,100,"115,616.00","118,736.00","3,120.00",,,,0,0,1,1,1,100,9,F9
+Professor,Biology,100,"139,972.00","153,092.00","13,120.00",T,PHD,Doctor of Philosophy,27,27,1,1,1,100,9,F9
+Professor,Biology,100,"91,349.00","97,589.00","6,240.00",T,PHD,Doctor of Philosophy,17,18,1,1,1,100,9,F9
+Professor,Biology,100,"148,636.00","148,636.00",0.00,T,PHD,Doctor of Philosophy,27,27,1,1,1,100,9,F9
+Assistant Professor,Chemical Engineering,100,"87,869.00","90,989.00","3,120.00",O,PHD,Doctor of Philosophy,9,9,1,1,1,100,9,F9
+Assistant Professor,Chemical Engineering,100,"89,369.00","92,489.00","3,120.00",O,PHD,Doctor of Philosophy,9,9,1,1,1,100,9,F9
+Assistant Professor,Chemical Engineering,100,"90,000.00","90,000.00",0.00,N,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Associate Professor,Chemical Engineering,100,"94,964.00","98,084.00","3,120.00",T,PHD,Doctor of Philosophy,12,12,1,1,1,100,9,F9
+Instructor,Chemical Engineering,100,"78,033.00","78,033.00",0.00,N,BS,Bachelor of Science,3,3,1,1,1,100,12,FA
+Instructor,Chemical Engineering,100,"75,000.00","75,000.00",0.00,,M,"Master's, Unspecified_",0,2,1,1,1,100,12,FA
+Instructor,Chemical Engineering,100,"112,572.00","112,572.00",0.00,N,PHD,Doctor of Philosophy,5,5,1,1,1,100,12,FA
+Professor,Chemical Engineering,100,"165,202.00","185,822.00","20,620.00",T,PHD,Doctor of Philosophy,6,6,1,1,1,100,9,F9
+Professor,Chemical Engineering,100,"200,000.00","218,120.00","18,120.00",T,PHD,Doctor of Philosophy,13,13,1,1,1,100,9,F9
+Professor,Chemical Engineering,100,"180,000.00","195,000.00","15,000.00",T,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Chemistry,100,"72,000.00","72,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Chemistry,100,"69,844.00","69,844.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Chemistry,100,"68,650.00","68,650.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Associate Professor,Chemistry,100,"76,285.00","76,285.00",0.00,T,PHD,Doctor of Philosophy,35,34,1,1,1,100,9,F9
+Associate Professor,Chemistry,100,"77,184.00","80,304.00","3,120.00",T,PHD,Doctor of Philosophy,11,13,1,1,1,100,9,F9
+Associate Professor,Chemistry,100,"71,066.00","71,066.00",0.00,T,PHD,Doctor of Philosophy,34,34,1,1,1,100,9,F9
+Instructor,Chemistry,100,"50,239.00","50,239.00",0.00,N,PHD,Doctor of Philosophy,5,6,1,1,1,100,9,F9
+Professor,Chemistry,100,"93,476.00","93,476.00",0.00,T,PHD,Doctor of Philosophy,38,37,1,1,1,100,9,F9
+Professor,Chemistry,100,"85,781.00","95,781.00","10,000.00",T,PHD,Doctor of Philosophy,6,29,1,1,1,100,9,F9
+Professor,Chemistry,100,"95,567.00","98,687.00","3,120.00",T,PHD,Doctor of Philosophy,16,17,1,1,1,100,9,F9
+Professor,Chemistry,100,"88,130.00","91,250.00","3,120.00",T,PHD,Doctor of Philosophy,20,21,1,1,1,100,9,F9
+Professor,Chemistry,100,"84,180.00","87,300.00","3,120.00",T,PHD,Doctor of Philosophy,12,12,1,1,1,100,9,F9
+Assistant Professor,Civil Engineering,100,"92,000.00","92,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Civil Engineering,100,"85,578.00","85,578.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Instructor,Civil Engineering,100,"82,000.00","82,000.00",0.00,N,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Professor,Civil Engineering,100,"101,399.00","113,879.00","12,480.00",T,PHD,Doctor of Philosophy,11,12,1,1,1,100,9,F9
+Professor,Civil Engineering,100,"136,083.00","146,083.00","10,000.00",T,PHD,Doctor of Philosophy,15,16,1,1,1,100,9,F9
+Professor,Civil Engineering,100,"122,567.00","122,567.00",0.00,T,PHD,Doctor of Philosophy,41,41,1,1,1,100,9,F9
+Professor,Civil Engineering,100,"98,094.00","104,334.00","6,240.00",T,PHD,Doctor of Philosophy,18,18,1,1,1,100,9,F9
+Professor,Civil Engineering,100,"129,409.00","142,529.00","13,120.00",T,PHD,Doctor of Philosophy,12,12,1,1,1,100,9,F9
+Professor,Civil Engineering,100,"118,391.00","124,631.00","6,240.00",T,PHD,Doctor of Philosophy,24,25,1,1,1,100,9,F9
+Instructor,Civil Engineering,57.69,"46,560.00","80,707.00","34,147.00",N,MS,Master of Science,2,2,1,1,1,100,9,F9
+Assistant Professor,Cntr Fr Adv Computer Study,100,"92,714.00","95,834.00","3,120.00",O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Cntr Fr Adv Computer Study,100,"98,604.00","98,604.00",0.00,O,PHD,Doctor of Philosophy,2,2,2,1,1,100,9,F9
+Assistant Professor,Cntr Fr Adv Computer Study,100,"96,000.00","96,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Associate Professor,Cntr Fr Adv Computer Study,100,"110,328.00","113,448.00","3,120.00",T,PHD,Doctor of Philosophy,16,16,1,1,1,100,9,F9
+Associate Professor,Cntr Fr Adv Computer Study,100,"105,370.00","108,490.00","3,120.00",T,PHD,Doctor of Philosophy,10,10,1,1,1,100,9,F9
+Associate Professor,Cntr Fr Adv Computer Study,100,"118,423.00","121,543.00","3,120.00",T,PHD,Doctor of Philosophy,27,27,1,1,1,100,9,F9
+Professor,Cntr Fr Adv Computer Study,93.46,"146,404.00","159,769.00","13,365.00",T,PHD,Doctor of Philosophy,30,29,1,1,1,100,9,F9
+Professor,Cntr Fr Adv Computer Study,100,"138,079.00","141,199.00","3,120.00",T,PHD,Doctor of Philosophy,29,30,1,1,1,100,9,F9
+Professor,Cntr Fr Adv Computer Study,100,"190,872.00","193,992.00","3,120.00",T,PHD,Doctor of Philosophy,32,32,1,1,1,100,9,F9
+Professor,Cntr Fr Adv Computer Study,100,"193,190.00","205,190.00","12,000.00",T,PHD,Doctor of Philosophy,32,31,1,1,1,100,9,F9
+Assistant Professor,Communication,100,"57,000.00","57,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Communication,100,"56,189.00","56,189.00",0.00,O,MS,Master of Science,7,16,1,1,1,100,9,F9
+Assistant Professor,Communication,100,"54,745.00","54,745.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Communication,100,"55,000.00","55,000.00",0.00,,MFA,Master of Fine Arts,0,0,1,1,1,100,9,F9
+Assistant Professor,Communication,100,"53,000.00","53,000.00",0.00,,PHD,Doctor of Philosophy,1,2,1,1,1,100,9,F9
+Assistant Professor,Communication,100,"55,000.00","55,000.00",0.00,,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Communication,100,"55,505.00","55,505.00",0.00,O,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Associate Professor,Communication,100,"61,457.00","64,577.00","3,120.00",T,PHD,Doctor of Philosophy,11,20,1,1,1,100,9,F9
+Associate Professor,Communication,100,"70,477.00","70,477.00",0.00,T,PHD,Doctor of Philosophy,20,21,1,1,1,100,9,F9
+Instructor,Communication,100,"48,000.00","48,000.00",0.00,N,MA,Master of Arts,0,1,1,1,1,100,9,F9
+Instructor,Communication,100,"48,124.00","48,124.00",0.00,N,MA,Master of Arts,4,4,1,1,1,100,9,F9
+Instructor,Communication,100,"45,000.00","45,000.00",0.00,,MS,Master of Science,0,5,1,1,1,100,9,F9
+Professor,Communication,100,"81,490.00","84,610.00","3,120.00",T,PHD,Doctor of Philosophy,16,18,1,1,1,100,9,F9
+Professor,Communication,100,"97,042.00","100,162.00","3,120.00",T,PHD,Doctor of Philosophy,25,25,1,1,1,100,9,F9
+Professor,Communication,100,"70,197.00","83,317.00","13,120.00",T,PHD,Doctor of Philosophy,14,15,1,1,1,100,9,F9
+Professor,Communication,100,"66,545.00","69,665.00","3,120.00",T,PHD,Doctor of Philosophy,10,10,1,1,1,100,9,F9
+Senior Instructor,Communication,100,"47,396.00","47,396.00",0.00,N,MS,Master of Science,7,8,1,1,1,100,9,F9
+Senior Instructor,Communication,100,"50,834.00","50,834.00",0.00,N,MFA,Master of Fine Arts,6,6,1,1,1,100,9,F9
+Assistant Professor,Communicative Disorders,100,"75,000.00","75,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Associate Professor,Communicative Disorders,100,"69,664.00","72,784.00","3,120.00",O,PHD,Doctor of Philosophy,17,21,1,1,1,100,9,F9
+Associate Professor,Communicative Disorders,100,"75,948.00","89,068.00","13,120.00",T,PHD,Doctor of Philosophy,9,11,1,1,1,100,9,F9
+Associate Professor,Communicative Disorders,100,"77,467.00","77,467.00",0.00,T,PHD,Doctor of Philosophy,15,23,1,1,1,100,9,F9
+Professor,Communicative Disorders,100,"126,840.00","129,960.00","3,120.00",T,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Professor,Communicative Disorders,100,"128,254.00","184,465.00","56,211.00",T,PHD,Doctor of Philosophy,27,27,1,1,1,100,9,F9
+Professor,Communicative Disorders,100,"143,300.00","143,300.00",0.00,T,PHD,Doctor of Philosophy,21,21,1,1,1,100,9,F9
+Professor,Communicative Disorders,100,"93,500.00","99,740.00","6,240.00",O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Professor,Communicative Disorders,100,"108,708.00","111,828.00","3,120.00",T,PHD,Doctor of Philosophy,20,20,1,1,1,100,9,F9
+Associate Professor,Computer Science,94.74,"96,794.00","130,168.00","33,374.00",T,PHD,Doctor of Philosophy,16,15,1,1,1,100,9,F9
+Assistant Professor,Computer Science,100,"90,146.00","90,146.00",0.00,O,MS,Master of Science,4,4,1,1,1,100,9,F9
+Assistant Professor,Computer Science,100,"88,800.00","88,800.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Computer Science,100,"89,381.00","89,381.00",0.00,O,PHD,Doctor of Philosophy,2,2,2,1,1,100,9,F9
+Master Instructor,Computer Science,100,"75,314.00","75,314.00",0.00,N,MS,Master of Science,17,17,1,1,1,100,9,F9
+Master Instructor,Computer Science,100,"74,739.00","74,739.00",0.00,N,MS,Master of Science,19,20,1,1,1,100,9,F9
+Associate Professor,Counselor Education,100,"66,311.00","66,311.00",0.00,O,PHD,Doctor of Philosophy,8,9,2,1,1,100,9,F9
+Associate Professor,Counselor Education,100,"64,984.00","68,104.00","3,120.00",O,PHD,Doctor of Philosophy,5,6,1,1,1,100,9,F9
+Associate Professor,Counselor Education,100,"67,159.00","67,159.00",0.00,T,PHD,Doctor of Philosophy,10,11,2,1,1,100,9,F9
+Associate Professor,Counselor Education,100,"81,332.00","81,332.00",0.00,T,PHD,Doctor of Philosophy,6,23,1,1,1,100,9,F9
+Professor,Counselor Education,100,"89,715.00","99,715.00","10,000.00",T,PHD,Doctor of Philosophy,21,23,2,1,1,100,9,F9
+Assistant Professor,Criminal Justice,100,"53,000.00","53,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Criminal Justice,100,"57,165.00","57,165.00",0.00,O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Associate Professor,Criminal Justice,100,"61,202.00","74,322.00","13,120.00",O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Master Instructor,Criminal Justice,100,"49,259.00","49,259.00",0.00,N,MBA,Master of Business Admin.,15,23,1,1,1,100,9,F9
+Master Instructor,Criminal Justice,100,"49,527.00","49,527.00",0.00,N,MA,Master of Arts,22,26,2,1,1,100,9,F9
+Instructor,Dean of Nursing&Allied Hlth Prof,100,"56,274.00","56,274.00",0.00,N,MSN,MS in Nursing,2,2,1,1,1,100,9,F9
+Instructor,Dean of Nursing&Allied Hlth Prof,100,"65,738.00","65,738.00",0.00,N,MSN,MS in Nursing,1,1,1,1,1,100,9,F9
+Instructor,Dean of Nursing&Allied Hlth Prof,100,"58,000.00","58,000.00",0.00,N,MSN,MS in Nursing,1,15,1,1,1,100,9,F9
+Instructor,Dean of Nursing&Allied Hlth Prof,100,"56,525.00","56,525.00",0.00,N,MN,Master of Nursing_,3,3,1,1,1,100,9,F9
+Senior Instructor,Dean of Nursing&Allied Hlth Prof,100,"55,393.00","55,393.00",0.00,N,MSN,MS in Nursing,9,9,1,1,1,100,9,F9
+Assistant Professor,Economics & Finance,100,"60,000.00","60,000.00",0.00,N,JD,Juris Doctorate,7,10,1,1,1,100,9,F9
+Assistant Professor,Economics & Finance,100,"95,330.00","104,690.00","9,360.00",O,JD,Juris Doctorate,3,4,1,1,1,100,9,F9
+Associate Professor,Economics & Finance,100,"94,605.00","100,845.00","6,240.00",T,PHD,Doctor of Philosophy,11,11,1,1,1,100,9,F9
+Associate Professor,Economics & Finance,100,"119,712.00","122,832.00","3,120.00",T,DBA,Doctor of Business Admin_,32,31,1,1,1,100,9,F9
+Associate Professor,Economics & Finance,100,"114,388.00","132,508.00","18,120.00",T,PHD,Doctor of Philosophy,10,11,1,1,1,100,9,F9
+Associate Professor,Economics & Finance,100,"95,000.00","95,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Associate Professor,Economics & Finance,100,"93,788.00","93,788.00",0.00,T,PHD,Doctor of Philosophy,15,15,1,1,1,100,9,F9
+Associate Professor,Economics & Finance,100,"109,581.00","115,821.00","6,240.00",T,PHD,Doctor of Philosophy,11,12,1,1,1,100,9,F9
+Instructor,Economics & Finance,100,"57,000.00","57,000.00",0.00,,MBA,Master of Business Admin.,2,11,1,1,1,100,9,F9
+Instructor,Economics & Finance,100,"57,000.00","57,000.00",0.00,,MBA,Master of Business Admin.,1,1,1,1,1,100,9,F9
+Instructor,Economics & Finance,100,"67,348.00","67,348.00",0.00,N,MBA,Master of Business Admin.,5,21,1,1,1,100,9,F9
+Instructor,Economics & Finance,100,"51,068.00","51,068.00",0.00,N,MBA,Master of Business Admin.,9,13,1,1,1,100,9,F9
+Instructor,Economics & Finance,100,"58,911.00","58,911.00",0.00,N,MS,Master of Science,10,10,1,1,1,100,9,F9
+Professor,Economics & Finance,100,"100,210.00","106,450.00","6,240.00",T,PHD,Doctor of Philosophy,12,13,1,1,1,100,9,F9
+Professor,Economics & Finance,100,"210,000.00","210,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Professor,Economics & Finance,100,"82,005.00","133,836.00","51,831.00",T,PHD,Doctor of Philosophy,23,23,2,1,1,100,9,F9
+Professor,Economics & Finance,100,"115,621.00","121,861.00","6,240.00",T,PHD,Doctor of Philosophy,34,33,1,1,1,100,9,F9
+Professor,Economics & Finance,100,"113,270.00","123,270.00","10,000.00",T,PHD,Doctor of Philosophy,30,31,1,1,1,100,9,F9
+Professor,Economics & Finance,100,"114,817.00","117,937.00","3,120.00",T,DBA,Doctor of Business Admin_,31,30,1,1,1,100,9,F9
+Professor,Economics & Finance,100,"207,000.00","207,000.00",0.00,,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Elect & Computer Engineering,100,"89,729.00","89,729.00",0.00,O,MS,Master of Science,16,20,1,1,1,100,9,F9
+Assistant Professor,Elect & Computer Engineering,100,"88,000.00","88,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,0,9,F9
+Assistant Professor,Elect & Computer Engineering,100,"88,000.00","88,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,FA
+Assistant Professor,Elect & Computer Engineering,100,"92,548.00","92,548.00",0.00,N,PHD,Doctor of Philosophy,10,13,1,1,1,100,12,F2
+Associate Professor,Elect & Computer Engineering,100,"98,140.00","98,140.00",0.00,T,PHD,Doctor of Philosophy,29,29,1,1,1,100,9,F9
+Instructor,Elect & Computer Engineering,100,"75,000.00","75,000.00",0.00,,MS,Master of Science,0,0,1,1,1,100,12,F2
+Instructor,Elect & Computer Engineering,100,"90,000.00","90,000.00",0.00,,,,0,0,1,1,1,0,12,F2
+Professor,Elect & Computer Engineering,100,"212,000.00","222,000.00","10,000.00",T,PHD,Doctor of Philosophy,33,33,1,1,1,100,9,F9
+Professor,Elect & Computer Engineering,100,"102,551.00","108,791.00","6,240.00",T,PHD,Doctor of Philosophy,14,15,1,1,1,100,9,F9
+Professor,Elect & Computer Engineering,100,"100,441.00","103,561.00","3,120.00",T,PHD,Doctor of Philosophy,30,30,1,1,1,100,9,F9
+Professor,Elect & Computer Engineering,100,"102,331.00","108,571.00","6,240.00",T,PHD,Doctor of Philosophy,15,15,1,1,1,100,9,F9
+Assisant Professor,English,100,"50,000.00","50,000.00",0.00,,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,English,100,"52,233.00","52,233.00",0.00,O,PHD,Doctor of Philosophy,4,5,1,1,1,100,9,F9
+Assistant Professor,English,100,"52,782.00","52,782.00",0.00,T,PHD,Doctor of Philosophy,16,17,1,1,1,100,9,F9
+Assistant Professor,English,100,"50,983.00","50,983.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,English,100,"48,000.00","48,000.00",0.00,O,MFA,Master of Fine Arts,0,0,1,1,1,100,9,F9
+Assistant Professor,English,100,"51,000.00","51,000.00",0.00,,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,English,100,"50,099.00","50,099.00",0.00,O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Assistant Professor,English,100,"49,000.00","49,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,English,100,"49,000.00","49,000.00",0.00,,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Associate Professor,English,100,"59,178.00","59,178.00",0.00,T,PHD,Doctor of Philosophy,12,12,1,1,1,100,9,F9
+Associate Professor,English,100,"54,049.00","54,049.00",0.00,T,PHD,Doctor of Philosophy,50,44,1,1,1,100,9,F9
+Associate Professor,English,100,"58,464.00","58,464.00",0.00,T,PHD,Doctor of Philosophy,11,11,1,1,1,100,9,F9
+Associate Professor,English,100,"56,533.00","59,653.00","3,120.00",O,PHD,Doctor of Philosophy,20,19,1,1,1,100,9,F9
+Associate Professor,English,100,"57,131.00","57,131.00",0.00,O,PHD,Doctor of Philosophy,6,7,1,1,1,100,9,F9
+Associate Professor,English,100,"58,564.00","58,564.00",0.00,O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Associate Professor,English,100,"52,698.00","55,818.00","3,120.00",O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Associate Professor,English,100,"60,627.00","60,627.00",0.00,T,PHD,Doctor of Philosophy,11,12,1,1,1,100,9,F9
+Associate Professor,English,100,"67,775.00","67,775.00",0.00,T,PHD,Doctor of Philosophy,16,18,1,1,1,100,9,F9
+Instructor,English,100,"47,972.00","47,972.00",0.00,O,MFA,Master of Fine Arts,3,3,1,1,1,100,9,F9
+Instructor,English,100,"38,942.00","38,942.00",0.00,N,MA,Master of Arts,11,14,1,1,1,100,9,F9
+Instructor,English,100,"36,106.00","36,106.00",0.00,N,MA,Master of Arts,10,15,1,1,1,100,9,F9
+Instructor,English,100,"36,046.00","36,046.00",0.00,N,MFA,Master of Fine Arts,10,10,1,1,1,100,9,F9
+Instructor,English,100,"36,136.00","36,136.00",0.00,N,BA,Bachelor of Arts,2,2,1,1,1,100,9,F9
+Instructor,English,100,"39,997.00","39,997.00",0.00,N,MA,Master of Arts,17,26,1,1,1,100,9,F9
+Instructor,English,100,"48,247.00","48,247.00",0.00,O,PHD,Doctor of Philosophy,16,15,1,1,1,100,9,F9
+Master Instructor,English,100,"44,283.00","44,283.00",0.00,N,MA,Master of Arts,12,14,1,1,1,100,9,F9
+Master Instructor,English,100,"47,199.00","47,199.00",0.00,N,MA,Master of Arts,18,19,1,1,1,100,9,F9
+Master Instructor,English,100,"54,547.00","54,547.00",0.00,N,MA,Master of Arts,41,40,1,1,1,100,9,F9
+Master Instructor,English,100,"47,018.00","47,018.00",0.00,N,MA,Master of Arts,14,14,1,1,1,100,9,F9
+Master Instructor,English,100,"50,839.00","50,839.00",0.00,N,MFA,Master of Fine Arts,22,23,1,1,1,100,9,F9
+Professor,English,100,"77,558.00","77,558.00",0.00,T,PHD,Doctor of Philosophy,18,19,1,1,1,100,9,F9
+Professor,English,100,"85,783.00","88,903.00","3,120.00",T,PHD,Doctor of Philosophy,14,14,1,1,1,100,9,F9
+Professor,English,100,"67,660.00","67,660.00",0.00,T,PHD,Doctor of Philosophy,16,17,1,1,1,100,9,F9
+Professor,English,100,"79,258.00","79,258.00",0.00,T,PHD,Doctor of Philosophy,16,16,1,1,1,100,9,F9
+Professor,English,100,"73,205.00","73,205.00",0.00,T,PHD,Doctor of Philosophy,19,19,1,1,1,100,9,F9
+Professor,English,100,"102,080.00","102,080.00",0.00,T,PHD,Doctor of Philosophy,31,30,1,1,1,100,9,F9
+Professor,English,100,"82,573.00","85,693.00","3,120.00",T,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Professor,English,100,"85,541.00","88,661.00","3,120.00",T,MFA,Master of Fine Arts,13,16,1,1,1,100,9,F9
+Professor,English,100,"81,842.00","94,962.00","13,120.00",T,PHD,Doctor of Philosophy,19,20,1,1,1,100,9,F9
+Professor,English,100,"83,303.00","86,423.00","3,120.00",T,PHD,Doctor of Philosophy,17,17,1,1,1,100,9,F9
+Professor,English,100,"70,169.00","70,169.00",0.00,T,PHD,Doctor of Philosophy,18,19,1,1,1,100,9,F9
+Senior Instructor,English,100,"37,763.00","37,763.00",0.00,N,PHD,Doctor of Philosophy,5,13,1,1,1,100,9,F9
+Senior Instructor,English,100,"39,953.00","39,953.00",0.00,N,MFA,Master of Fine Arts,10,12,1,1,1,100,9,F9
+Senior Instructor,English,100,"51,053.00","51,053.00",0.00,N,BA,Bachelor of Arts,21,21,1,1,1,100,12,F9
+Senior Instructor,English,100,"37,912.00","37,912.00",0.00,N,MA,Master of Arts,5,10,1,1,1,100,9,F9
+Assistant Professor,History & Geography,100,"51,000.00","54,120.00","3,120.00",O,PHD,Doctor of Philosophy,1,2,1,1,1,100,9,F9
+Assistant Professor,History & Geography,100,"50,000.00","50,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,History & Geography,100,"57,524.00","57,524.00",0.00,T,PHD,Doctor of Philosophy,20,20,1,1,1,100,9,F9
+Assistant Professor,History & Geography,100,"52,500.00","55,620.00","3,120.00",,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,History & Geography,100,"52,500.00","55,620.00","3,120.00",,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,History & Geography,100,"59,720.00","59,720.00",0.00,T,PHD,Doctor of Philosophy,23,23,1,1,1,100,9,F9
+Assistant Professor,History & Geography,100,"52,269.00","55,389.00","3,120.00",O,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Associate Professor,History & Geography,100,"69,058.00","69,058.00",0.00,T,PHD,Doctor of Philosophy,22,22,1,1,1,100,9,F9
+Associate Professor,History & Geography,100,"64,124.00","67,244.00","3,120.00",T,PHD,Doctor of Philosophy,14,14,1,1,1,100,9,F9
+Associate Professor,History & Geography,100,"61,853.00","61,853.00",0.00,T,PHD,Doctor of Philosophy,11,12,1,1,1,100,9,F9
+Associate Professor,History & Geography,100,"64,537.00","77,657.00","13,120.00",T,PHD,Doctor of Philosophy,10,11,1,1,1,100,9,F9
+Instructor,History & Geography,100,"39,063.00","39,063.00",0.00,,PHD,Doctor of Philosophy,5,6,1,1,1,100,9,F9
+Professor,History & Geography,100,"88,791.00","88,791.00",0.00,T,PHD,Doctor of Philosophy,21,22,1,1,1,100,9,F9
+Professor,History & Geography,100,"90,000.00","93,120.00","3,120.00",T,PHD,Doctor of Philosophy,15,16,1,1,1,100,9,F9
+Professor,History & Geography,100,"97,067.00","97,067.00",0.00,T,PHD,Doctor of Philosophy,27,27,1,1,1,100,9,F9
+Senior Instructor,History & Geography,100,"43,712.00","43,712.00",0.00,N,PHD,Doctor of Philosophy,6,6,1,1,1,100,9,F9
+Senior Instructor,History & Geography,100,"46,307.00","46,307.00",0.00,N,MA,Master of Arts,10,11,1,1,1,100,9,F9
+Assistant Professor,Industrial Technology,100,"81,008.00","81,008.00",0.00,O,PHD,Doctor of Philosophy,5,6,2,1,1,100,9,F9
+Assistant Professor,Industrial Technology,100,"79,475.00","79,475.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Associate Professor,Industrial Technology,100,"82,241.00","82,241.00",0.00,T,MBA,Master of Business Admin.,28,28,1,1,1,100,9,F9
+Instructor,Industrial Technology,100,"75,000.00","75,000.00",0.00,,,,0,1,1,1,1,0,12,F2
+Instructor,Industrial Technology,100,"85,000.00","85,000.00",0.00,,,,0,0,1,1,1,100,9,F9
+Instructor,Industrial Technology,100,"75,000.00","75,000.00",0.00,N,MS,Master of Science,0,2,1,1,1,100,12,F2
+Instructor,Industrial Technology,100,"59,854.00","59,854.00",0.00,N,MBA,Master of Business Admin.,10,10,1,1,1,100,9,F9
+Instructor,Industrial Technology,100,"86,129.00","86,129.00",0.00,N,MS,Master of Science,29,30,1,1,1,100,12,F2
+Professor,Industrial Technology,100,"97,161.00","97,161.00",0.00,T,DSC,Doctor of Science_,23,23,1,1,1,100,9,F9
+Professor,Industrial Technology,100,"110,155.00","123,275.00","13,120.00",T,PHD,Doctor of Philosophy,11,12,1,1,1,100,9,F9
+Professor,Industrial Technology,100,"96,453.00","102,693.00","6,240.00",T,PHD,Doctor of Philosophy,23,22,1,1,1,100,9,F9
+Assistant Professor,Informatics,100,"83,177.00","83,177.00",0.00,O,PHD,Doctor of Philosophy,6,7,1,1,1,100,9,F9
+Associate Professor,Informatics,100,"106,968.00","106,968.00",0.00,T,PHD,Doctor of Philosophy,12,13,1,1,1,100,9,F9
+Associate Professor,Informatics,100,"112,927.00","112,927.00",0.00,T,PHD,Doctor of Philosophy,22,27,1,1,1,100,9,F9
+Senior Instructor,Informatics,100,"70,000.00","70,000.00",0.00,N,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Senior Instructor,Informatics,100,"58,686.00","58,686.00",0.00,N,MS,Master of Science,9,13,1,1,1,100,9,F9
+Assistant Professor,Kinesiology,100,"65,000.00","65,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Kinesiology,100,"59,943.00","59,943.00",0.00,O,PHD,Doctor of Philosophy,2,5,1,1,1,100,9,F9
+Assistant Professor,Kinesiology,100,"63,874.00","66,994.00","3,120.00",N,PHD,Doctor of Philosophy,2,2,1,1,1,100,12,FA
+Assistant Professor,Kinesiology,100,"53,730.00","53,730.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Kinesiology,100,"64,375.00","67,495.00","3,120.00",O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Kinesiology,100,"65,000.00","65,000.00",0.00,,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Associate Professor,Kinesiology,100,"65,353.00","65,353.00",0.00,T,PHD,Doctor of Philosophy,12,13,1,1,1,100,9,F9
+Associate Professor,Kinesiology,100,"65,935.00","69,055.00","3,120.00",O,PHD,Doctor of Philosophy,5,6,1,1,1,100,9,F9
+Associate Professor,Kinesiology,100,"71,436.00","71,436.00",0.00,T,PHD,Doctor of Philosophy,18,19,1,1,1,100,9,F9
+Instructor,Kinesiology,100,"50,122.00","50,122.00",0.00,N,MS,Master of Science,4,6,1,1,1,100,9,F9
+Instructor,Kinesiology,100,"44,000.00","44,000.00",0.00,N,MS,Master of Science,3,3,1,1,1,100,9,F9
+Master Instructor,Kinesiology,100,"53,546.00","53,546.00",0.00,N,MED,Master of Education,31,31,1,1,1,100,9,F9
+Professor,Kinesiology,100,"96,385.00","96,385.00",0.00,T,PHD,Doctor of Philosophy,27,27,1,1,1,100,9,F9
+Professor,Kinesiology,100,"83,510.00","83,510.00",0.00,T,PHD,Doctor of Philosophy,18,20,1,1,1,100,9,F9
+Professor,Kinesiology,100,"81,574.00","84,694.00","3,120.00",T,PHD,Doctor of Philosophy,27,30,1,1,1,100,9,F9
+Senior Instructor,Kinesiology,100,"50,467.00","50,467.00",0.00,N,MPH,Master of Public Health,7,8,1,1,1,100,9,F9
+Senior Instructor,Kinesiology,100,"54,006.00","54,006.00",0.00,N,MED,Master of Education,9,13,1,1,1,100,9,F9
+Assistant Professor,Library,100,"55,000.00","55,000.00",0.00,N,MLIS,M of Library & Information Sci,3,7,1,1,1,100,12,FA
+Assistant Professor,Library,100,"56,962.00","56,962.00",0.00,O,MLIS,M of Library & Information Sci,13,15,1,1,1,100,12,FA
+Assistant Professor,Library,100,"71,162.00","71,162.00",0.00,O,MLS,Master of Library Science,2,2,1,1,1,100,12,FA
+Assistant Professor,Library,100,"55,000.00","55,000.00",0.00,N,MS,Master of Science,2,2,1,1,1,100,12,FA
+Assistant Professor,Library,100,"55,020.00","58,140.00","3,120.00",O,MLS,Master of Library Science,3,3,1,1,1,100,12,FA
+Assistant Professor,Library,100,"55,000.00","58,120.00","3,120.00",,MLIS,M of Library & Information Sci,2,2,1,1,1,100,12,FA
+Associate Professor,Library,100,"70,000.00","70,000.00",0.00,T,MLIS,M of Library & Information Sci,31,31,1,1,1,100,12,FA
+Associate Professor,Library,100,"75,527.00","75,527.00",0.00,T,MLS,Master of Library Science,32,32,1,1,1,100,12,FA
+Instructor,Library,100,"46,058.00","46,058.00",0.00,N,M,"Master's, Unspecified_",4,4,1,1,1,100,12,FA
+Instructor,Library,100,"47,000.00","47,000.00",0.00,N,MLS,Master of Library Science,1,8,1,1,1,100,12,FA
+Instructor,Library,100,"45,000.00","45,000.00",0.00,N,BA,Bachelor of Arts,3,3,1,1,1,100,12,F9
+Instructor,Library,100,"45,000.00","45,000.00",0.00,,MLS,Master of Library Science,0,0,1,1,1,100,12,FA
+Instructor,Library,100,"45,000.00","45,000.00",0.00,,,,0,0,1,1,1,100,12,FA
+Instructor,Library,100,"45,000.00","45,000.00",0.00,,AB,Bachelor of Arts,2,2,1,1,1,100,12,FA
+Senior Instructor,Library,100,"48,073.00","48,073.00",0.00,N,MLIS,M of Library & Information Sci,10,10,1,1,1,100,12,FA
+Assistant Professor,Management,100,"75,000.00","84,360.00","9,360.00",O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Associate Professor,Management,100,"122,704.00","132,064.00","9,360.00",O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Associate Professor,Management,100,"122,200.00","125,320.00","3,120.00",T,PHD,Doctor of Philosophy,18,23,1,1,1,100,9,F9
+Associate Professor,Management,100,"125,481.00","131,721.00","6,240.00",T,PHD,Doctor of Philosophy,4,8,2,1,1,100,9,F9
+Associate Professor,Management,100,"118,474.00","118,474.00",0.00,T,PHD,Doctor of Philosophy,18,18,1,1,1,100,9,F9
+Associate Professor,Management,100,"118,920.00","128,280.00","9,360.00",T,DBA,Doctor of Business Admin_,17,20,1,1,1,100,9,F9
+Associate Professor,Management,100,"125,976.00","129,096.00","3,120.00",T,PHD,Doctor of Philosophy,14,15,1,1,1,100,9,F9
+Associate Professor,Management,100,"131,213.00","146,213.00","15,000.00",T,PHD,Doctor of Philosophy,6,7,1,1,1,100,9,F9
+Associate Professor,Management,100,"123,251.00","129,491.00","6,240.00",T,PHD,Doctor of Philosophy,9,10,1,1,1,100,9,F9
+Associate Professor,Management,100,"128,240.00","137,600.00","9,360.00",O,PHD,Doctor of Philosophy,6,7,1,1,1,100,9,F9
+Instructor,Management,100,"51,701.00","54,821.00","3,120.00",N,PHD,Doctor of Philosophy,2,7,1,1,1,100,9,F9
+Instructor,Management,100,"50,889.00","50,889.00",0.00,N,M,"Master's, Unspecified_",2,2,1,1,1,100,9,F9
+Instructor,Management,100,"50,000.00","50,000.00",0.00,N,MBA,Master of Business Admin.,1,1,1,1,1,100,9,F9
+Instructor,Management,100,"48,073.00","48,073.00",0.00,N,PHD,Doctor of Philosophy,10,10,1,1,1,100,9,F9
+Instructor,Management,100,"108,014.00","108,014.00",0.00,N,JD,Juris Doctorate,6,11,1,1,1,100,9,F9
+Master Instructor,Management,100,"59,542.00","65,782.00","6,240.00",N,MS,Master of Science,17,18,1,1,1,100,9,F9
+Master Instructor,Management,100,"69,171.00","69,171.00",0.00,N,PHD,Doctor of Philosophy,18,40,2,1,1,100,9,F9
+Professor,Management,100,"126,573.00","135,933.00","9,360.00",T,DBA,Doctor of Business Admin_,15,21,1,1,1,100,9,F9
+Professor,Management,100,"131,738.00","141,738.00","10,000.00",T,PHD,Doctor of Philosophy,33,36,1,1,1,100,9,F9
+Professor,Management,100,"153,242.00","153,242.00",0.00,T,PHD,Doctor of Philosophy,29,29,1,1,1,100,9,F9
+Professor,Management,100,"139,795.00","142,915.00","3,120.00",T,PHD,Doctor of Philosophy,30,30,1,1,1,100,9,F9
+Senior Instructor,Management,100,"48,401.00","51,521.00","3,120.00",N,PHD,Doctor of Philosophy,10,11,2,1,1,100,9,F9
+Associate Professor,Marketing & Hospitality,100,"113,299.00","119,539.00","6,240.00",T,DBA,Doctor of Business Admin_,13,13,1,1,1,100,9,F9
+Associate Professor,Marketing & Hospitality,100,"130,000.00","130,000.00",0.00,T,PHD,Doctor of Philosophy,17,23,1,1,1,100,9,F9
+Associate Professor,Marketing & Hospitality,100,"116,195.00","122,435.00","6,240.00",T,PHD,Doctor of Philosophy,18,19,1,1,1,100,9,F9
+Associate Professor,Marketing & Hospitality,100,"131,121.00","168,221.00","37,100.00",T,PHD,Doctor of Philosophy,13,16,1,1,1,100,9,F9
+Associate Professor,Marketing & Hospitality,100,"116,419.00","125,779.00","9,360.00",T,PHD,Doctor of Philosophy,10,11,1,1,1,100,9,F9
+Instructor,Marketing & Hospitality,100,"54,128.00","54,128.00",0.00,N,MBA,Master of Business Admin.,3,3,1,1,1,100,9,F9
+Professor,Marketing & Hospitality,100,"162,338.00","165,458.00","3,120.00",T,PHD,Doctor of Philosophy,11,11,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"71,752.00","71,752.00",0.00,T,PHD,Doctor of Philosophy,27,28,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"78,614.00","78,614.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"67,645.00","67,645.00",0.00,N,PHD,Doctor of Philosophy,15,17,2,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"77,000.00","77,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,2,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"77,000.00","77,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"78,411.00","78,411.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"75,000.00","75,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"77,000.00","77,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"73,000.00","73,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"76,000.00","76,000.00",0.00,O,MS,Master of Science,1,1,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"82,000.00","82,000.00",0.00,,PHD,Doctor of Philosophy,0,2,1,1,1,100,9,F9
+Assistant Professor,Mathematics,100,"78,275.00","78,275.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Associate Professor,Mathematics,100,"79,532.00","79,532.00",0.00,T,PHD,Doctor of Philosophy,28,28,1,1,1,100,9,F9
+Associate Professor,Mathematics,100,"78,762.00","78,762.00",0.00,T,PHD,Doctor of Philosophy,11,12,1,1,1,100,9,F9
+Associate Professor,Mathematics,100,"82,213.00","82,213.00",0.00,T,PHD,Doctor of Philosophy,13,15,1,1,1,100,9,F9
+Associate Professor,Mathematics,100,"77,136.00","77,136.00",0.00,O,PHD,Doctor of Philosophy,7,7,1,1,1,100,9,F9
+Associate Professor,Mathematics,100,"78,508.00","78,508.00",0.00,T,PHD,Doctor of Philosophy,9,9,1,1,1,100,9,F9
+Associate Professor,Mathematics,100,"74,286.00","74,286.00",0.00,T,PHD,Doctor of Philosophy,31,31,1,1,1,100,9,F9
+Instructor,Mathematics,100,"50,000.00","50,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Instructor,Mathematics,100,"43,000.00","43,000.00",0.00,N,MS,Master of Science,5,6,1,1,1,100,9,F9
+Instructor,Mathematics,100,"47,000.00","47,000.00",0.00,N,PHD,Doctor of Philosophy,0,9,1,1,1,100,9,F9
+Instructor,Mathematics,100,"47,000.00","47,000.00",0.00,,,,6,0,1,1,1,0,9,F9
+Instructor,Mathematics,100,"47,488.00","47,488.00",0.00,N,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Master Instructor,Mathematics,100,"49,647.00","49,647.00",0.00,N,MBA,Master of Business Admin.,23,30,1,1,1,100,9,F9
+Master Instructor,Mathematics,100,"50,287.00","50,287.00",0.00,N,PHD,Doctor of Philosophy,10,11,1,1,1,100,9,F9
+Professor,Mathematics,100,"122,989.00","122,989.00",0.00,T,PHD,Doctor of Philosophy,33,32,1,1,1,100,9,F9
+Professor,Mathematics,100,"125,596.00","128,716.00","3,120.00",T,PHD,Doctor of Philosophy,28,28,1,1,1,100,9,F9
+Professor,Mathematics,100,"111,258.00","111,258.00",0.00,T,PHD,Doctor of Philosophy,41,39,1,1,1,100,9,F9
+Professor,Mathematics,100,"123,295.00","126,415.00","3,120.00",T,PHD,Doctor of Philosophy,26,27,1,1,1,100,9,F9
+Professor,Mathematics,100,"85,165.00","85,165.00",0.00,T,PHD,Doctor of Philosophy,12,12,1,1,1,100,9,F9
+Professor,Mathematics,100,"109,449.00","109,449.00",0.00,T,PHD,Doctor of Philosophy,29,29,1,1,1,100,9,F9
+Professor,Mathematics,100,"120,185.00","123,305.00","3,120.00",T,PHD,Doctor of Philosophy,34,34,1,1,1,100,9,F9
+Professor,Mathematics,100,"120,000.00","130,000.00","10,000.00",,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Senior Instructor,Mathematics,100,"47,146.00","47,146.00",0.00,N,MS,Master of Science,6,14,1,1,1,100,9,F9
+Senior Instructor,Mathematics,100,"47,177.00","47,177.00",0.00,N,MS,Master of Science,7,20,1,1,1,100,9,F9
+Senior Instructor,Mathematics,100,"48,116.00","48,116.00",0.00,N,PHD,Doctor of Philosophy,6,7,1,1,1,100,9,F9
+Senior Instructor,Mathematics,100,"47,805.00","47,805.00",0.00,N,MS,Master of Science,13,19,1,1,1,100,9,F9
+Senior Instructor,Mathematics,100,"47,443.00","47,443.00",0.00,N,PHD,Doctor of Philosophy,5,10,1,1,1,100,9,F9
+Assistant Professor,Mechanical Engineering,100,"89,000.00","89,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Mechanical Engineering,50,"46,301.00","95,722.00","49,421.00",O,PHD,Doctor of Philosophy,11,11,1,1,1,100,9,F9
+Assistant Professor,Mechanical Engineering,100,"89,000.00","89,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Mechanical Engineering,100,"89,369.00","89,369.00",0.00,O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Assistant Professor,Mechanical Engineering,100,"89,070.00","89,070.00",0.00,O,PHD,Doctor of Philosophy,8,8,1,1,1,100,9,F9
+Assistant Professor,Mechanical Engineering,100,"94,804.00","97,924.00","3,120.00",O,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Associate Professor,Mechanical Engineering,100,"106,900.00","106,900.00",0.00,T,PHD,Doctor of Philosophy,33,34,1,1,1,100,9,F9
+Associate Professor,Mechanical Engineering,100,"100,143.00","100,143.00",0.00,O,PHD,Doctor of Philosophy,6,6,1,1,1,100,9,F9
+Associate Professor,Mechanical Engineering,100,"89,156.00","89,156.00",0.00,,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Instructor,Mechanical Engineering,100,"75,000.00","75,000.00",0.00,N,MS,Master of Science,1,1,1,1,1,100,12,FA
+Instructor,Mechanical Engineering,100,"84,174.00","84,174.00",0.00,N,MS,Master of Science,4,4,1,1,1,100,12,F2
+Instructor,Mechanical Engineering,100,"91,050.00","91,050.00",0.00,N,PHD,Doctor of Philosophy,17,17,1,1,1,100,12,F2
+Instructor,Mechanical Engineering,100,"76,936.00","76,936.00",0.00,N,MS,Master of Science,4,4,1,1,1,100,12,F2
+Instructor,Mechanical Engineering,100,"95,513.00","95,513.00",0.00,N,PHD,Doctor of Philosophy,3,3,1,1,1,100,12,F2
+Instructor,Mechanical Engineering,100,"75,000.00","75,000.00",0.00,,MSE,MS in Engineering,2,4,1,1,1,100,12,F2
+Professor,Mechanical Engineering,100,"171,000.00","184,120.00","13,120.00",T,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Professor,Mechanical Engineering,100,"131,742.00","166,742.00","35,000.00",T,PHD,Doctor of Philosophy,4,21,2,1,1,100,9,F9
+Professor,Mechanical Engineering,100,"120,376.00","120,376.00",0.00,T,PHD,Doctor of Philosophy,32,32,1,1,1,100,9,F9
+Professor,Mechanical Engineering,100,"128,132.00","134,372.00","6,240.00",T,PHD,Doctor of Philosophy,30,29,1,1,1,100,9,F9
+Professor,Mechanical Engineering,100,"130,794.00","130,794.00",0.00,T,PHD,Doctor of Philosophy,22,22,1,1,1,100,9,F9
+Assistant Professor,Modern Languages,100,"58,292.00","58,292.00",0.00,T,PHD,Doctor of Philosophy,20,20,1,1,1,100,9,F9
+Assistant Professor,Modern Languages,100,"56,000.00","59,120.00","3,120.00",O,MA,Master of Arts,3,3,1,1,1,100,9,F9
+Assistant Professor,Modern Languages,100,"55,570.00","55,570.00",0.00,T,PHD,Doctor of Philosophy,14,15,1,1,1,100,9,F9
+Associate Professor,Modern Languages,100,"62,551.00","62,551.00",0.00,T,PHD,Doctor of Philosophy,10,10,1,1,1,100,9,F9
+Associate Professor,Modern Languages,100,"63,070.00","73,070.00","10,000.00",T,PHD,Doctor of Philosophy,13,14,1,1,1,100,9,F9
+Associate Professor,Modern Languages,100,"63,769.00","66,889.00","3,120.00",T,PHD,Doctor of Philosophy,10,10,1,1,1,100,9,F9
+Associate Professor,Modern Languages,100,"58,501.00","61,621.00","3,120.00",O,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Instructor,Modern Languages,100,"35,909.00","35,909.00",0.00,N,MA,Master of Arts,7,8,1,1,1,100,9,F9
+Master Instructor,Modern Languages,100,"41,190.00","41,190.00",0.00,N,MA,Master of Arts,7,17,1,1,1,100,9,F9
+Master Instructor,Modern Languages,100,"45,514.00","45,514.00",0.00,N,MA,Master of Arts,18,18,1,1,1,100,9,F9
+Master Instructor,Modern Languages,100,"39,179.00","39,179.00",0.00,N,MA,Master of Arts,12,13,1,1,1,100,9,F9
+Master Instructor,Modern Languages,100,"45,866.00","45,866.00",0.00,N,MA,Master of Arts,21,22,1,1,1,100,9,F9
+Professor,Modern Languages,100,"83,689.00","113,689.00","30,000.00",O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Professor,Modern Languages,100,"65,334.00","68,454.00","3,120.00",T,PHD,Doctor of Philosophy,11,11,1,1,1,100,9,F9
+Professor,Modern Languages,100,"64,923.00","68,043.00","3,120.00",T,PHD,Doctor of Philosophy,11,11,1,1,1,100,9,F9
+Assistant Professor,Music,100,"58,500.00","58,500.00",0.00,,,,0,0,1,1,1,0,9,F9
+Assistant Professor,Music,100,"55,000.00","55,000.00",0.00,,,,0,0,1,1,1,0,12,FA
+Assistant Professor,Music,100,"52,000.00","52,000.00",0.00,O,PHD,Doctor of Philosophy,0,1,1,1,1,100,9,F9
+Assistant Professor,Music,100,"55,000.00","55,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Music,100,"54,092.00","54,092.00",0.00,O,DMA,Doctor of Arts in Music_,2,2,1,1,1,100,9,F9
+Assistant Professor,Music,100,"48,878.00","48,878.00",0.00,N,DMA,Doctor of Arts in Music_,6,7,1,1,1,100,9,F9
+Assistant Professor,Music,100,"50,000.00","50,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+"Assistant Professor, A D Bands",Music,100,"52,000.00","52,000.00",0.00,O,DMA,Doctor of Arts in Music_,1,1,2,1,1,100,9,F9
+Associate Professor,Music,100,"61,395.00","64,515.00","3,120.00",T,DMA,Doctor of Arts in Music_,18,18,1,1,1,100,9,F9
+Associate Professor,Music,100,"72,788.00","72,788.00",0.00,T,DME,Doctor of Music Education_,25,27,1,1,1,100,9,F9
+Associate Professor,Music,100,"57,222.00","60,342.00","3,120.00",O,MA,Master of Arts,5,5,1,1,1,100,9,F9
+Associate Professor,Music,100,"54,744.00","57,055.00","2,311.00",T,DMA,Doctor of Arts in Music_,21,22,1,1,1,100,9,F9
+Instructor,Music,100,"49,673.00","49,673.00",0.00,N,B,"Bachelor, Unspecified_",3,4,1,1,1,100,9,F9
+Master Instructor,Music,100,"53,540.00","53,540.00",0.00,N,MM,Master of Music,22,22,1,1,1,100,9,F9
+Master Instructor,Music,100,"52,807.00","52,807.00",0.00,N,MM,Master of Music,12,12,1,1,1,100,9,F9
+Master Instructor,Music,100,"50,306.00","53,426.00","3,120.00",N,MM,Master of Music,20,21,1,1,1,100,9,F9
+Professor,Music,100,"82,812.00","85,932.00","3,120.00",T,DART,Doctor of Arts_,24,24,1,1,1,100,9,F9
+Professor,Music,100,"108,869.00","108,869.00",0.00,T,PHD,Doctor of Philosophy,8,9,1,1,1,100,12,FA
+Professor,Music,100,"85,824.00","88,944.00","3,120.00",T,DMA,Doctor of Arts in Music_,28,28,1,1,1,100,9,F9
+Professor,Music,100,"95,622.00","98,742.00","3,120.00",T,PHD,Doctor of Philosophy,32,32,1,1,1,100,9,F9
+Professor,Music,100,"70,723.00","80,723.00","10,000.00",T,PHD,Doctor of Philosophy,17,19,1,1,1,100,9,F9
+Professor,Music,100,"65,293.00","68,413.00","3,120.00",T,DMA,Doctor of Arts in Music_,16,16,1,1,1,100,9,F9
+Professor,Music,100,"114,074.00","117,194.00","3,120.00",T,DMA,Doctor of Arts in Music_,33,33,1,1,1,100,9,F9
+Professor,Music,100,"69,489.00","72,609.00","3,120.00",T,DMA,Doctor of Arts in Music_,20,20,1,1,1,100,9,F9
+Assistant Professor,Performing Arts,100,"58,000.00","58,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Assistant Professor,Performing Arts,100,"50,083.00","50,083.00",0.00,O,MFA,Master of Fine Arts,4,4,1,1,1,100,9,F9
+Assistant Professor,Performing Arts,100,"64,081.00","64,081.00",0.00,T,MFA,Master of Fine Arts,30,30,1,1,1,100,9,F9
+Associate Professor,Performing Arts,100,"58,329.00","61,449.00","3,120.00",T,MFA,Master of Fine Arts,9,11,1,1,1,100,9,F9
+Associate Professor,Performing Arts,100,"60,173.00","60,173.00",0.00,T,MFA,Master of Fine Arts,11,11,1,1,1,100,9,F9
+Instructor,Performing Arts,100,"45,495.00","45,495.00",0.00,N,BFA,Bachelor of Fine Arts,10,11,1,1,1,100,9,F9
+Instructor,Performing Arts,100,"52,000.00","52,000.00",0.00,O,MFA,Master of Fine Arts,0,0,1,1,1,100,9,F9
+Assistant Professor,Petroleum Engineering,100,"90,029.00","90,029.00",0.00,O,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Assistant Professor,Petroleum Engineering,100,"94,804.00","94,804.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Petroleum Engineering,100,"91,099.00","94,219.00","3,120.00",O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Instructor,Petroleum Engineering,100,"92,000.00","92,000.00",0.00,,BS,Bachelor of Science,1,1,1,1,1,100,12,F2
+Instructor,Petroleum Engineering,100,"78,153.00","78,153.00",0.00,N,MSE,MS in Engineering,3,3,1,1,1,100,12,FA
+Instructor,Petroleum Engineering,100,"78,232.00","78,232.00",0.00,N,MS,Master of Science,4,5,1,1,1,100,12,FA
+Professor,Petroleum Engineering,100,"132,442.00","145,562.00","13,120.00",T,PHD,Doctor of Philosophy,11,11,1,1,1,100,9,F9
+Professor,Petroleum Engineering,100,"136,573.00","150,933.00","14,360.00",T,PHD,Doctor of Philosophy,18,18,1,1,1,100,9,F9
+Professor,Petroleum Engineering,100,"133,818.00","133,818.00",0.00,T,PHD,Doctor of Philosophy,38,35,1,1,1,100,9,F9
+Assistant Professor,Physics,100,"78,000.00","78,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Physics,100,"78,000.00","78,000.00",0.00,O,PHD,Doctor of Philosophy,0,3,1,1,1,100,9,F9
+Associate Professor,Physics,100,"77,406.00","80,526.00","3,120.00",O,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Associate Professor,Physics,100,"81,428.00","84,548.00","3,120.00",T,PHD,Doctor of Philosophy,12,12,1,1,1,100,9,F9
+Instructor,Physics,100,"50,000.00","50,000.00",0.00,,PHD,Doctor of Philosophy,4,6,1,1,1,100,9,F9
+Professor,Physics,100,"89,890.00","89,890.00",0.00,T,PHD,Doctor of Philosophy,20,21,1,1,1,100,9,F9
+Professor,Physics,100,"84,010.00","84,010.00",0.00,T,PHD,Doctor of Philosophy,12,12,1,1,1,100,9,F9
+Professor,Physics,100,"97,509.00","110,629.00","13,120.00",T,PHD,Doctor of Philosophy,18,19,1,1,1,100,9,F9
+Professor,Physics,100,"108,736.00","120,403.00","11,667.00",O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Senior Instructor,Physics,100,"70,981.00","70,981.00",0.00,N,PHD,Doctor of Philosophy,7,7,1,1,1,100,12,F2
+Reading Instructor,PI Carmouche Robert L,100,"46,963.00","46,963.00",0.00,N,MS,Master of Science,7,7,1,1,1,100,12,F9
+Professor,PI Gopu Vijaya Krishna,80.4,"152,921.00","193,320.00","40,399.00",T,PHD,Doctor of Philosophy,3,28,1,1,1,100,9,F9
+Associate Dean,Political Science,69.38,"64,428.00","92,863.00","28,435.00",T,PHD,Doctor of Philosophy,13,20,1,1,1,100,9,F9
+Assistant Professor,Political Science,100,"51,000.00","54,120.00","3,120.00",O,PHD,Doctor of Philosophy,3,4,1,1,1,100,9,F9
+Associate Professor,Political Science,100,"60,000.00","63,120.00","3,120.00",,PHD,Doctor of Philosophy,1,3,1,1,1,100,9,F9
+Associate Professor,Political Science,100,"64,360.00","64,360.00",0.00,T,PHD,Doctor of Philosophy,23,23,1,1,1,100,9,F9
+Professor,Political Science,100,"78,637.00","81,757.00","3,120.00",T,PHD,Doctor of Philosophy,22,21,1,1,1,100,9,F9
+Professor,Political Science,100,"78,831.00","108,831.00","30,000.00",O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Professor,Political Science,100,"72,296.00","85,416.00","13,120.00",T,PHD,Doctor of Philosophy,17,18,1,1,1,100,9,F9
+Assistant Professor,Psychology,100,"57,002.00","57,002.00",0.00,O,PHD,Doctor of Philosophy,5,6,1,1,1,100,9,F9
+Assistant Professor,Psychology,100,"54,000.00","54,000.00",0.00,N,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Psychology,100,"62,623.00","62,623.00",0.00,T,PHD,Doctor of Philosophy,24,25,1,1,1,100,9,F9
+Assistant Professor,Psychology,100,"62,704.00","62,704.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Psychology,100,"56,391.00","56,391.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Psychology,100,"59,897.00","59,897.00",0.00,O,PHD,Doctor of Philosophy,12,13,1,1,1,100,9,F9
+Assistant Professor,Psychology,100,"56,241.00","56,241.00",0.00,O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Associate Professor,Psychology,100,"63,191.00","73,191.00","10,000.00",T,PHD,Doctor of Philosophy,9,9,1,1,1,100,9,F9
+Associate Professor,Psychology,100,"65,153.00","65,153.00",0.00,T,PHD,Doctor of Philosophy,17,20,1,1,1,100,9,F9
+Associate Professor,Psychology,100,"63,633.00","66,753.00","3,120.00",O,PHD,Doctor of Philosophy,8,10,2,1,1,100,9,F9
+Associate Professor,Psychology,100,"79,076.00","79,076.00",0.00,T,PHD,Doctor of Philosophy,18,20,1,1,1,100,9,F9
+Instructor,Psychology,100,"47,210.00","47,210.00",0.00,N,MS,Master of Science,17,23,1,1,1,100,9,F9
+Instructor,Psychology,100,"43,000.00","43,000.00",0.00,,MS,Master of Science,5,7,2,1,1,100,9,F9
+Master Instructor,Psychology,100,"46,367.00","46,367.00",0.00,N,MS,Master of Science,10,11,1,1,1,100,9,F9
+Professor,Psychology,100,"75,591.00","78,711.00","3,120.00",T,PHD,Doctor of Philosophy,12,13,1,1,1,100,9,F9
+Senior Instructor,Psychology,100,"44,714.00","44,714.00",0.00,N,PHD,Doctor of Philosophy,10,14,1,1,1,100,9,F9
+Senior Instructor,Psychology,100,"45,478.00","45,478.00",0.00,N,MS,Master of Science,11,16,1,1,1,100,9,F9
+Senior Instructor,Psychology,100,"41,966.00","41,966.00",0.00,N,MS,Master of Science,9,27,1,1,1,100,9,F9
+Assistant Professor,Sch of Computing & Informatics,100,"95,000.00","95,000.00",0.00,,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Sch of Computing & Informatics,100,"96,000.00","96,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Professor,Sch of Computing & Informatics,100,"195,476.00","195,476.00",0.00,T,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,School of Architecture/Design,100,"63,424.00","63,424.00",0.00,O,MFA,Master of Fine Arts,4,4,1,1,1,100,9,F9
+Assistant Professor,School of Architecture/Design,100,"62,192.00","62,192.00",0.00,O,MFA,Master of Fine Arts,4,5,1,1,1,100,9,F9
+Assistant Professor,School of Architecture/Design,100,"64,082.00","64,082.00",0.00,O,MFA,Master of Fine Arts,4,4,1,1,1,100,9,F9
+Assistant Professor,School of Architecture/Design,100,"65,207.00","65,207.00",0.00,O,MARC,Master of Architecture,6,6,1,1,1,100,9,F9
+Assistant Professor,School of Architecture/Design,100,"67,000.00","67,000.00",0.00,O,MARC,Master of Architecture,0,0,1,1,1,100,9,F9
+Assistant Professor,School of Architecture/Design,100,"65,378.00","65,378.00",0.00,O,MARC,Master of Architecture,6,6,1,1,1,100,9,F9
+Associate Professor,School of Architecture/Design,100,"70,000.00","70,000.00",0.00,O,MARC,Master of Architecture,0,7,1,1,1,100,9,F9
+Associate Professor,School of Architecture/Design,100,"70,407.00","70,407.00",0.00,T,MFA,Master of Fine Arts,17,18,1,1,1,100,9,F9
+Associate Professor,School of Architecture/Design,100,"68,680.00","68,680.00",0.00,O,MARC,Master of Architecture,5,6,1,1,1,100,9,F9
+Associate Professor,School of Architecture/Design,100,"72,500.00","72,500.00",0.00,O,MS,Master of Science,1,1,1,1,1,100,9,F9
+Instructor,School of Architecture/Design,100,"58,555.00","58,555.00",0.00,N,MARC,Master of Architecture,11,12,1,1,1,100,9,F9
+Lecturer,School of Architecture/Design,100,"58,054.00","58,054.00",0.00,N,MLA,Master of Landscape Arch_,10,11,1,1,1,100,9,F9
+Professor,School of Architecture/Design,100,"85,489.00","88,609.00","3,120.00",T,MARC,Master of Architecture,18,20,1,1,1,100,9,F9
+Professor,School of Architecture/Design,100,"117,682.00","117,682.00",0.00,T,MARC,Master of Architecture,42,44,1,1,1,100,9,F9
+Professor,School of Architecture/Design,100,"83,373.00","83,373.00",0.00,T,MFA,Master of Fine Arts,29,30,1,1,1,100,9,F9
+Professor,School of Architecture/Design,100,"84,007.00","87,127.00","3,120.00",T,MARC,Master of Architecture,16,17,1,1,1,100,9,F9
+Professor,School of Architecture/Design,100,"115,338.00","118,458.00","3,120.00",T,MARC,Master of Architecture,24,24,1,1,1,100,9,F9
+Professor,School of Architecture/Design,100,"76,764.00","79,884.00","3,120.00",T,MARC,Master of Architecture,11,13,1,1,1,100,9,F9
+Assistant Professor,School of Geoscience,100,"69,296.00","69,296.00",0.00,O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Assistant Professor,School of Geoscience,100,"70,000.00","73,120.00","3,120.00",O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,School of Geoscience,100,"75,000.00","78,120.00","3,120.00",,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,School of Geoscience,100,"72,699.00","75,819.00","3,120.00",O,PHD,Doctor of Philosophy,4,4,1,1,1,100,9,F9
+Associate Professor,School of Geoscience,100,"74,629.00","74,629.00",0.00,T,PHD,Doctor of Philosophy,34,35,1,1,1,100,9,F9
+Associate Professor,School of Geoscience,100,"73,677.00","76,797.00","3,120.00",O,PHD,Doctor of Philosophy,5,6,1,1,1,100,9,F9
+Associate Professor,School of Geoscience,100,"81,915.00","85,035.00","3,120.00",O,PHD,Doctor of Philosophy,6,6,1,1,1,100,9,F9
+Instructor,School of Geoscience,100,"47,000.00","47,000.00",0.00,,MS,Master of Science,10,13,1,1,1,100,9,F9
+Instructor,School of Geoscience,100,"50,000.00","50,000.00",0.00,,PHD,Doctor of Philosophy,2,3,1,1,1,100,9,F9
+Professor,School of Geoscience,100,"94,722.00","94,722.00",0.00,T,PHD,Doctor of Philosophy,41,38,1,1,1,100,9,F9
+Professor,School of Geoscience,100,"90,697.00","93,817.00","3,120.00",T,PHD,Doctor of Philosophy,18,19,1,1,1,100,9,F9
+Professor,School of Geoscience,100,"96,050.00","99,170.00","3,120.00",T,PHD,Doctor of Philosophy,16,16,1,1,1,100,9,F9
+Professor & Director,School of Geoscience,100,"120,000.00","140,000.00","20,000.00",,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,"Sociology, Anthropology, and CAFS",100,"51,000.00","51,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Assistant Professor,"Sociology, Anthropology, and CAFS",100,"50,000.00","50,000.00",0.00,N,PHD,Doctor of Philosophy,1,1,1,1,1,0,9,F9
+Assistant Professor,"Sociology, Anthropology, and CAFS",100,"55,000.00","55,000.00",0.00,,,,0,0,1,1,1,0,9,F9
+Assistant Professor,"Sociology, Anthropology, and CAFS",100,"56,809.00","56,809.00",0.00,O,PHD,Doctor of Philosophy,10,11,1,1,1,100,9,F9
+Assistant Professor,"Sociology, Anthropology, and CAFS",100,"50,000.00","50,000.00",0.00,O,PHD,Doctor of Philosophy,5,8,1,1,1,100,9,F9
+Associate Professor,"Sociology, Anthropology, and CAFS",100,"66,586.00","66,586.00",0.00,T,PHD,Doctor of Philosophy,17,18,1,1,1,100,9,F9
+Associate Professor,"Sociology, Anthropology, and CAFS",100,"58,226.00","58,226.00",0.00,T,PHD,Doctor of Philosophy,17,18,1,1,1,100,9,F9
+Associate Professor,"Sociology, Anthropology, and CAFS",100,"52,527.00","55,647.00","3,120.00",O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Associate Professor,"Sociology, Anthropology, and CAFS",100,"68,475.00","68,475.00",0.00,T,PHD,Doctor of Philosophy,23,25,1,1,1,100,9,F9
+Instructor,"Sociology, Anthropology, and CAFS",100,"46,000.00","46,000.00",0.00,N,MED,Master of Education,0,0,1,1,1,100,9,F9
+Instructor,"Sociology, Anthropology, and CAFS",100,"41,000.00","41,000.00",0.00,,PHD,Doctor of Philosophy,0,8,1,1,1,100,9,F9
+Professor,"Sociology, Anthropology, and CAFS",100,"82,119.00","82,119.00",0.00,T,PHD,Doctor of Philosophy,14,14,1,1,1,100,9,F9
+Professor,"Sociology, Anthropology, and CAFS",100,"129,233.00","132,353.00","3,120.00",T,PHD,Doctor of Philosophy,35,34,1,1,1,100,9,F9
+Professor,"Sociology, Anthropology, and CAFS",100,"77,745.00","77,745.00",0.00,T,DO,Doctorat (France)_,26,27,1,1,1,100,9,F9
+Professor,"Sociology, Anthropology, and CAFS",100,"82,288.00","92,288.00","10,000.00",T,PHD,Doctor of Philosophy,25,25,1,1,1,100,9,F9
+Professor,"Sociology, Anthropology, and CAFS",100,"82,025.00","85,145.00","3,120.00",T,PHD,Doctor of Philosophy,17,18,1,1,1,100,9,F9
+Professor,"Sociology, Anthropology, and CAFS",100,"85,429.00","85,429.00",0.00,T,PHD,Doctor of Philosophy,11,22,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"63,713.00","63,713.00",0.00,T,EDD,Doctor of Education,13,14,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,500.00","60,500.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"62,484.00","62,484.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"61,700.00","61,700.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,500.00","60,500.00",0.00,,,,0,0,1,1,1,0,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,500.00","60,500.00",0.00,O,EDD,Doctor of Education,1,1,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,623.00","60,623.00",0.00,O,PHD,Doctor of Philosophy,3,4,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,500.00","60,500.00",0.00,,,,0,0,1,1,1,0,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,141.00","60,141.00",0.00,O,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,164.00","60,164.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,500.00","60,500.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"60,500.00","60,500.00",0.00,O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Curriculum & Instruc,100,"59,771.00","59,771.00",0.00,O,PHD,Doctor of Philosophy,3,12,1,1,1,100,9,F9
+Associate Professor,Tchr Ed Curriculum & Instruc,100,"75,737.00","78,857.00","3,120.00",T,PHD,Doctor of Philosophy,15,17,1,1,1,100,9,F9
+Associate Professor,Tchr Ed Curriculum & Instruc,100,"76,137.00","79,257.00","3,120.00",T,PHD,Doctor of Philosophy,14,16,1,1,1,100,9,F9
+Associate Professor,Tchr Ed Curriculum & Instruc,100,"66,863.00","66,863.00",0.00,T,PHD,Doctor of Philosophy,17,18,1,1,1,100,9,F9
+Instructor,Tchr Ed Curriculum & Instruc,100,"49,845.00","49,845.00",0.00,N,MED,Master of Education,4,6,1,1,1,100,9,F9
+Instructor,Tchr Ed Curriculum & Instruc,100,"19,162.00","19,162.00",0.00,N,MED,Master of Education,6,9,0.5,1,1,50,9,F9
+Instructor,Tchr Ed Curriculum & Instruc,100,"45,637.00","45,637.00",0.00,N,MED,Master of Education,4,5,1,1,1,100,9,F9
+Instructor,Tchr Ed Curriculum & Instruc,100,"51,088.00","51,088.00",0.00,N,MED,Master of Education,21,21,1,1,1,100,9,F9
+Instructor,Tchr Ed Curriculum & Instruc,100,"47,732.00","47,732.00",0.00,N,MED,Master of Education,7,23,1,1,1,100,9,F9
+Master Instructor,Tchr Ed Curriculum & Instruc,100,"54,949.00","54,949.00",0.00,N,MED,Master of Education,17,20,1,1,1,100,9,F9
+Master Instructor,Tchr Ed Curriculum & Instruc,100,"51,998.00","51,998.00",0.00,N,PHD,Doctor of Philosophy,21,23,1,1,1,100,9,F9
+Master Instructor,Tchr Ed Curriculum & Instruc,100,"46,992.00","46,992.00",0.00,N,MA,Master of Arts,15,16,1,1,1,100,9,F9
+Professor,Tchr Ed Curriculum & Instruc,100,"99,772.00","112,892.00","13,120.00",T,PHD,Doctor of Philosophy,12,23,1,1,1,100,9,F9
+Professor,Tchr Ed Curriculum & Instruc,100,"100,332.00","103,452.00","3,120.00",T,PHD,Doctor of Philosophy,27,35,1,1,1,100,9,F9
+Professor,Tchr Ed Curriculum & Instruc,100,"104,112.00","107,232.00","3,120.00",T,PHD,Doctor of Philosophy,19,21,1,1,1,100,9,F9
+Senior Instructor,Tchr Ed Curriculum & Instruc,100,"50,144.00","50,144.00",0.00,N,MED,Master of Education,6,7,1,1,1,100,9,F9
+Senior Instructor,Tchr Ed Curriculum & Instruc,100,"45,243.00","45,243.00",0.00,N,MED,Master of Education,10,16,1,1,1,100,9,F9
+Associate Professor,Tchr Ed Curriculum & Instruc,90,"59,548.00","69,284.00","9,736.00",O,PHD,Doctor of Philosophy,3,14,2,1,1,100,9,F9
+Assistant Professor,Tchr Ed Found & Leadership,100,"65,000.00","65,000.00",0.00,O,PHD,Doctor of Philosophy,1,1,1,1,1,100,9,FA
+Assistant Professor,Tchr Ed Found & Leadership,100,"61,969.00","61,969.00",0.00,O,EDD,Doctor of Education,3,4,1,1,1,100,9,F9
+Assistant Professor,Tchr Ed Found & Leadership,100,"65,000.00","65,000.00",0.00,,,,0,0,1,1,1,100,9,F9
+Associate Professor,Tchr Ed Found & Leadership,100,"65,918.00","69,038.00","3,120.00",O,PHD,Doctor of Philosophy,7,7,1,1,1,100,9,F9
+Associate Professor,Tchr Ed Found & Leadership,100,"69,373.00","72,493.00","3,120.00",T,PHD,Doctor of Philosophy,5,5,1,1,1,100,9,F9
+Associate Professor,Tchr Ed Found & Leadership,100,"76,000.00","76,000.00",0.00,O,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Associate Professor,Tchr Ed Found & Leadership,100,"68,247.00","71,367.00","3,120.00",T,PHD,Doctor of Philosophy,11,20,1,1,1,100,9,F9
+Asst Professor & Assess Coor,Tchr Ed Found & Leadership,100,"64,111.00","73,111.00","9,000.00",O,EDD,Doctor of Education,7,8,1,1,1,100,9,F9
+Professor,Tchr Ed Found & Leadership,100,"76,513.00","79,633.00","3,120.00",T,PHD,Doctor of Philosophy,13,14,1,1,1,100,9,F9
+Professor,Tchr Ed Found & Leadership,100,"102,839.00","105,959.00","3,120.00",T,JD,Juris Doctorate,6,14,1,1,1,100,9,F9
+Professor,Tchr Ed Found & Leadership,100,"92,876.00","92,876.00",0.00,T,EDD,Doctor of Education,32,31,1,1,1,100,9,F9
+Professor,Tchr Ed Found & Leadership,100,"80,000.00","83,120.00","3,120.00",T,PHD,Doctor of Philosophy,11,13,1,1,1,100,9,F9
+Professor,Tchr Ed Found & Leadership,100,"99,680.00","112,800.00","13,120.00",T,PHD,Doctor of Philosophy,11,14,1,1,1,100,9,F9
+Senior Instructor,Tchr Ed Found & Leadership,100,"51,716.00","51,716.00",0.00,N,EDS,Educational Specialist_,7,9,1,1,1,100,9,F9
+Senior Instructor,Tchr Ed Found & Leadership,100,"52,168.00","52,168.00",0.00,N,EDS,Educational Specialist_,7,10,1,1,1,100,9,F9
+Professor,UNIV 100,100,"99,303.00","99,303.00",0.00,T,PHD,Doctor of Philosophy,21,21,1,1,1,100,9,F9
+Instructor,UNIV 200,100,"47,000.00","47,000.00",0.00,N,MBA,Master of Business Admin.,11,17,1,1,1,100,9,F9
+Instructor,UNIV 200,100,"45,139.00","45,139.00",0.00,N,MBA,Master of Business Admin.,7,11,1,1,1,100,9,F9
+Instructor,UNIV 200,100,"52,684.00","52,684.00",0.00,N,MED,Master of Education,32,34,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"53,761.00","53,761.00",0.00,O,MFA,Master of Fine Arts,0,0,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"51,858.00","51,858.00",0.00,O,PHD,Doctor of Philosophy,3,3,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"54,376.00","54,376.00",0.00,O,MFA,Master of Fine Arts,4,5,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"50,000.00","50,000.00",0.00,T,MFA,Master of Fine Arts,36,35,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"52,117.00","55,237.00","3,120.00",O,PHD,Doctor of Philosophy,2,2,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"53,761.00","53,761.00",0.00,O,MFA,Master of Fine Arts,0,0,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"51,695.00","51,695.00",0.00,O,MFA,Master of Fine Arts,2,2,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"53,761.00","53,761.00",0.00,,PHD,Doctor of Philosophy,0,0,1,1,1,100,9,F9
+Assistant Professor,Visual Arts,100,"50,000.00","50,000.00",0.00,O,MFA,Master of Fine Arts,1,1,1,1,1,100,9,F9
+Associate Professor,Visual Arts,100,"61,820.00","64,940.00","3,120.00",T,MFA,Master of Fine Arts,11,13,1,1,1,100,9,F9
+Associate Professor,Visual Arts,100,"55,517.00","55,517.00",0.00,O,MFA,Master of Fine Arts,10,10,1,1,1,100,9,F9
+Associate Professor,Visual Arts,100,"61,539.00","61,539.00",0.00,T,MFA,Master of Fine Arts,11,11,1,1,1,100,9,F9
+Associate Professor,Visual Arts,100,"66,936.00","66,936.00",0.00,T,MFA,Master of Fine Arts,14,15,1,1,1,100,9,F9
+Associate Professor,Visual Arts,100,"54,586.00","54,586.00",0.00,T,MFA,Master of Fine Arts,12,13,1,1,1,100,9,F9
+Instructor,Visual Arts,100,"50,000.00","50,000.00",0.00,,MFA,Master of Fine Arts,0,10,1,1,1,100,9,F9
+Professor,Visual Arts,100,"66,805.00","66,805.00",0.00,T,MFA,Master of Fine Arts,18,24,1,1,1,100,9,F9
+Professor,Visual Arts,100,"68,455.00","68,455.00",0.00,T,MFA,Master of Fine Arts,20,21,1,1,1,100,9,F9
+Professor,Visual Arts,100,"67,686.00","70,806.00","3,120.00",T,MFA,Master of Fine Arts,18,18,1,1,1,100,9,F9
+Professor,Visual Arts,100,"84,990.00","88,110.00","3,120.00",T,MFA,Master of Fine Arts,19,19,1,1,1,100,9,F9
